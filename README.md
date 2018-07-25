@@ -198,6 +198,9 @@ Foldit by University of Washington
 Zombies, Run! by Six to Start
 [http://www.gamesforchange.org/game/zombies-run/](http://www.gamesforchange.org/game/zombies-run/)
 
+Unity Games For Change Challenge
+https://blogs.unity3d.com/2018/07/25/making-games-for-change/
+
 The Dad That Hacked Into Donkey Kong for his Daughter
 [https://www.youtube.com/watch?v=XFS_xn-EpRY](https://www.youtube.com/watch?v=XFS_xn-EpRY)
 
