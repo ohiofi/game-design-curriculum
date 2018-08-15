@@ -8,6 +8,8 @@ What is a Game?: Crash Course Games
 Why Do We Play Games? by Vsauce
 [https://www.youtube.com/watch?v=e5jDspIC4hY](https://www.youtube.com/watch?v=e5jDspIC4hY)
 
+Activity: Toys vs games vs puzzles vs simulations
+
 My Definition of 'Game' by Chris Crawford
 [http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html)
 
@@ -141,17 +143,45 @@ https://www.youtube.com/watch?v=VjLEoo3hIoM
 - With a 52-card deck, what is the prob. of drawing 2 face cards (J, Q, or K)?
 
 ### Problems with Probability
+Humans are not always rational
+
 The Monty Hall Problem - Human Perception can be skewed
 Monty Hall Problem - Numberphile
 https://www.youtube.com/watch?v=4Lb-6rxZxx0
 
 Try to predict the probability for ANY 1-12 on two dice (for example, rolling a 1 and a 2 counts as rolling 1, 2, AND 3)
 
+Pseudo-Random number generation on computers
+
 Liar's Dice - Probability mixed with Bluffing (see also: Poker)
 https://www.youtube.com/watch?v=SRI_Yvze2ms
 
+### Game Theory: Psychology + Games
 
-Pseudo-Random number generation on computers
+The Risk Game - I will give you 50 points now or we can flip a coin and you get 0/100 points
+Loss Aversion Game - We flip a coin and you get -50/100 points. Play or not?
+The Ultimatum Game - 2 players, p1 gets 100 points to split, p2 gets to accept or decline
+Split or Steal - Both split 200, one steals 200, or both steal nothing
+Press Your Luck - I will give you 100 points for each heads, but you bust on tails
+The Risk Game - I will give you 40 points now or we can flip a coin and you get 0/100 points
+Loss Aversion Game - We flip a coin and you get -100/100 points. Play or not?
+
+Prisoners' dilemma and Nash equilibrium | Microeconomics | Khan Academy
+https://www.youtube.com/watch?v=UkXI-zPcDIM
+
+Prisoner's Dilemma in Trivia Murder Party by Jackbox
+https://youtu.be/5mG4sPitpQE?list=PLh1dW-aN_NIVzINnN2eSbPaoE2PZVnYDZ&t=302
+
+Golden Balls split or steal
+https://www.youtube.com/results?search_query=golden+balls+split+or+steal
+
+Game Theory: The Science of Decision-Making
+https://www.youtube.com/watch?v=MHS-htjGgSY
+
+Psychology of Gaming: Crash Course Games
+https://www.youtube.com/watch?v=MYJBRWT7JGU
+
+
 
 ### Infinite Repetition
 Monte Carlo Simulation - repeat a random trial a few thousand/million times
