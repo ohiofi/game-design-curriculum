@@ -158,13 +158,13 @@ https://www.youtube.com/watch?v=SRI_Yvze2ms
 
 ### Game Theory: Psychology + Games
 
-The Risk Game - I will give you 50 points now or we can flip a coin and you get 0/100 points
-Loss Aversion Game - We flip a coin and you get -50/100 points. Play or not?
-The Ultimatum Game - 2 players, p1 gets 100 points to split, p2 gets to accept or decline
-Split or Steal - Both split 200, one steals 200, or both steal nothing
-Press Your Luck - I will give you 100 points for each heads, but you bust on tails
-The Risk Game - I will give you 40 points now or we can flip a coin and you get 0/100 points
-Loss Aversion Game - We flip a coin and you get -100/100 points. Play or not?
+- The Risk Game - I will give you 50 points now or we can flip a coin and you get 0/100 points
+- Loss Aversion Game - We flip a coin and you get -50/100 points. Play or not?
+- The Ultimatum Game - 2 players, p1 gets 100 points to split, p2 gets to accept or decline
+- Split or Steal - Both split 200, one steals 200, or both steal nothing
+- Press Your Luck - I will give you 100 points for each heads, but you bust on tails
+- The Risk Game - I will give you 40 points now or we can flip a coin and you get 0/100 points
+- Loss Aversion Game - We flip a coin and you get -100/100 points. Play or not?
 
 Prisoners' dilemma and Nash equilibrium | Microeconomics | Khan Academy
 https://www.youtube.com/watch?v=UkXI-zPcDIM
