@@ -30,7 +30,7 @@ Critical Vocabulary
  - Pacing
  - Game System
  - Positive Feedback Loop
- - Negative Feedback Loop
+ - Negative Feedback Loop https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg
  - Deterministic/Solvable
  - Rule Symetry/Asymetry
 
@@ -396,9 +396,12 @@ https://vimeo.com/47943812
 
 Crash Course Games
 https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG
+
 Wired Game|Life
 https://video.wired.com/series/game-life
+
 PBS Game/Show
 https://www.youtube.com/channel/UCr_2H8pPitVJ85bmpLwFUyQ
+
 Game Maker's Toolkit
 https://www.youtube.com/user/McBacon1337
