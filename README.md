@@ -194,9 +194,11 @@ Coin flip simulator
 http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
 
 ### Markov Chain - probability between states
+Origin of Markov chains | Journey into information theory | Computer Science | Khan Academy
+https://www.youtube.com/watch?v=Ws63I3F7Moc
 
 Probabilities in the Game of Monopoly
-http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
+http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml#Markov
 
 Analysis of Candyland, Chutes & Ladders, etc. by datagenetics.com
 - Chuttes and Ladders http://www.datagenetics.com/blog/november12011/index.html
