@@ -8,7 +8,7 @@ What is a Game?: Crash Course Games
 Why Do We Play Games? by Vsauce
 [https://www.youtube.com/watch?v=e5jDspIC4hY](https://www.youtube.com/watch?v=e5jDspIC4hY)
 
-Activity: Toys vs games vs puzzles vs simulations
+### Activity: Toys vs games vs puzzles vs simulations
 
 My Definition of 'Game' by Chris Crawford
 [http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html)
@@ -115,7 +115,8 @@ Is Mario Kart unfair?
 https://www.youtube.com/results?search_query=is+mario+kart+unfair
 
 ## Probability
-Independent Probability - Die Rolls / Coin Flips
+
+### Independent Probability - Die Rolls / Coin Flips
 Khan Academy - Intro to theoretical probability
 https://www.youtube.com/watch?v=uzkc-qNVoOk
 
@@ -135,7 +136,7 @@ https://www.khanacademy.org/math/ap-statistics/probability-ap/randomness-probabi
 - With two dice, what is the prob. of rolling 7?
 - With six coins (6d2), what is the prob. of flipping 1 heads & 5 tails?
 
-Dependent Probability - Card Draws
+### Dependent Probability - Card Draws
 Khan Academy - Dependent probability introduction
 https://www.youtube.com/watch?v=VjLEoo3hIoM
 - With a 52-card deck, what is the prob. of drawing 2 Aces?
@@ -151,7 +152,7 @@ https://www.youtube.com/watch?v=4Lb-6rxZxx0
 
 Try to predict the probability for ANY 1-12 on two dice (for example, rolling a 1 and a 2 counts as rolling 1, 2, AND 3)
 
-Pseudo-Random number generation on computers
+### Pseudo-Random number generation on computers
 
 Liar's Dice - Probability mixed with Bluffing (see also: Poker)
 https://www.youtube.com/watch?v=SRI_Yvze2ms
@@ -185,12 +186,14 @@ https://www.youtube.com/watch?v=MYJBRWT7JGU
 
 ### Infinite Repetition
 Monte Carlo Simulation - repeat a random trial a few thousand/million times
+
 Khan Academy - Experimental versus theoretical probability simulation
 https://www.youtube.com/watch?v=Nos-xOCpQqg
 
+Coin flip simulator
 http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
 
-Markov Chain - probability between states
+### Markov Chain - probability between states
 
 Probabilities in the Game of Monopoly
 http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
@@ -214,9 +217,15 @@ Psychologically manipulate players to keep playing
 ## Calculating Score
 How can you make the player's score go down with time?
 
-Discuss: What are some games with multiple victory conditions?
+### Discuss: What are some games with multiple victory conditions?
 Multiple Paths to Victory
 https://lanepushinggames.com/article/killer-queen-thoughts-on-multiple-victory-conditions
+
+Multiple victory or loss conditions. For example, a round of Pokémon Trading Card Game can end in three ways:
+- When one player has Knocked Out enough of the other's Pokémon to draw all his Prize Cards
+- When one player is unable to play a Pokémon from his Bench to replace his Active Pokémon
+- When one player has run out of cards in his Deck and is unable to draw at the beginning of his turn.
+Source: https://en.wikipedia.org/wiki/Game_mechanics#Combination_conditions
 
 FPS Level Design - "...it is always advantageous for the player to have a number of paths to get to and from every major area in a multiplayer map."
 https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-1/
@@ -227,15 +236,29 @@ https://en.wikipedia.org/wiki/Agency_(sociology)
 Player Agency: How Game Design Affects Narrative
 https://www.gamasutra.com/blogs/JoshBycer/20150126/234961/Player_Agency_How_Game_Design_Affects_Narrative.php
 
+### Asymmetric Win Conditions
+Common styles of asymmetric games:
+- social deduction games (hidden loyalty games) such as Werewolf, The Resistance, Two Rooms and a Boom, or Battlestar Galactica. In these games, asymmetry is critical because it facilitates deduction of a player's hidden allegiance based on how they act.
+- chase games, such as Scotland Yard, Mr. Jack, Fury of Dracula, or freeze tag. In these games, the primary game activity is inherently asymmetric.
+- one-versus-many games, such as Descent, Dead of Winter, or Mansions of Madness (first edition), which I suspect are mostly offshoots of tabletop RPGs (such as D&D) and so have inherited the concept of an "adventuring party". You could also look at these as cooperative games where the "game system" has been expanded into an actual player role. Ultimately, I think this model derives from traditional storytelling--their asymmetry results from the fact that one side is "protagonists" and the other is "antagonists".
+Source: https://boardgamegeek.com/article/27705805#27705805
+
+BANG! is also asymmetric:
+- Sheriff and Deputies: Win if all outlaws and renegade dead, sheriff still alive.
+- Outlaws: Win if Sheriff dead.
+- Renegade: All players dead but himself. The game ends when the sheriff dies, so the renegade only wins if he kills the sheriff last.
+Source: https://boardgamegeek.com/geeklist/24128/item/480422#item480422
+
 ## Narrative Writing / World Building
 Everything I Needed To Know I Learned From The First Level
 
-How to Create a Video Game World https://www.emwelsh.com/blog/video-game-world
+How to Create a Video Game World 
 – Determine the Scope of Your World
 – Develop a Backstory for This World
 – Create a Culture and a System of Order
 – Create Items for Your World
 – Draw Out the Layout of This World
+Source: https://www.emwelsh.com/blog/video-game-world
 
 ## Serious Games / Games For Change
 Monopoly, the World's Best-Selling Game
