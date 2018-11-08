@@ -187,10 +187,23 @@ https://www.youtube.com/watch?v=MYJBRWT7JGU
 Monte Carlo Simulation - repeat a random trial a few thousand/million times
 Khan Academy - Experimental versus theoretical probability simulation
 https://www.youtube.com/watch?v=Nos-xOCpQqg
+
 http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
+
 Markov Chain - probability between states
+
 Analysis of Candyland, Chutes & Ladders, etc.
+
 datagenetics.com
+- Chuttes and Ladders http://www.datagenetics.com/blog/november12011/index.html
+- Risk http://datagenetics.com/blog/november22011/index.html
+- Candyland http://datagenetics.com/blog/december12011/index.html
+- Battleship http://www.datagenetics.com/blog/december32011/index.html
+- Darts http://www.datagenetics.com/blog/january12012/index.html
+- Yahtzee http://datagenetics.com/blog/january42012/index.html
+- Hangman http://www.datagenetics.com/blog/april12012/index.html
+- Minesweeper http://datagenetics.com/blog/june12012/index.html
+
 
 ## Reward Systems
 When should we schedule rewards?
@@ -207,10 +220,21 @@ https://lanepushinggames.com/article/killer-queen-thoughts-on-multiple-victory-c
 FPS Level Design - "...it is always advantageous for the player to have a number of paths to get to and from every major area in a multiplayer map."
 https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-1/
 
+Agency (sociology) - the capacity of individuals to act independently and to make their own free choices
+https://en.wikipedia.org/wiki/Agency_(sociology)
+
+Player Agency: How Game Design Affects Narrative
+https://www.gamasutra.com/blogs/JoshBycer/20150126/234961/Player_Agency_How_Game_Design_Affects_Narrative.php
+
 ## Narrative Writing / World Building
 Everything I Needed To Know I Learned From The First Level
 
-
+How to Create a Video Game World https://www.emwelsh.com/blog/video-game-world
+– Determine the Scope of Your World
+– Develop a Backstory for This World
+– Create a Culture and a System of Order
+– Create Items for Your World
+– Draw Out the Layout of This World
 
 ## Serious Games / Games For Change
 Monopoly, the World's Best-Selling Game
