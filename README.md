@@ -192,9 +192,10 @@ http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
 
 Markov Chain - probability between states
 
-Analysis of Candyland, Chutes & Ladders, etc.
+Probabilities in the Game of Monopoly
+http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
 
-datagenetics.com
+Analysis of Candyland, Chutes & Ladders, etc. by datagenetics.com
 - Chuttes and Ladders http://www.datagenetics.com/blog/november12011/index.html
 - Risk http://datagenetics.com/blog/november22011/index.html
 - Candyland http://datagenetics.com/blog/december12011/index.html
