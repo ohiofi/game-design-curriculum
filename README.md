@@ -194,6 +194,10 @@ Coin flip simulator
 http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
 
 ### Markov Chain - probability between states
+
+botnik.org's Harry Potter and the Portrait of what Looked Like a Large Pile of Ash
+https://www.youtube.com/watch?v=x-uDnlGJRdk
+
 Origin of Markov chains | Journey into information theory | Computer Science | Khan Academy
 https://www.youtube.com/watch?v=Ws63I3F7Moc
 
