@@ -233,6 +233,8 @@ Multiple victory or loss conditions. For example, a round of Pokémon Trading Ca
 - When one player has run out of cards in his Deck and is unable to draw at the beginning of his turn.
 Source: https://en.wikipedia.org/wiki/Game_mechanics#Combination_conditions
 
+### Player Agency
+
 FPS Level Design - "...it is always advantageous for the player to have a number of paths to get to and from every major area in a multiplayer map."
 https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-1/
 
