@@ -246,9 +246,9 @@ https://www.gamasutra.com/blogs/JoshBycer/20150126/234961/Player_Agency_How_Game
 
 ### Asymmetric Win Conditions
 Common styles of asymmetric games:
-- social deduction games (hidden loyalty games) such as Werewolf, The Resistance, Two Rooms and a Boom, or Battlestar Galactica. In these games, asymmetry is critical because it facilitates deduction of a player's hidden allegiance based on how they act.
+- social deduction games (hidden loyalty games) such as Werewolf, The Resistance, Two Rooms and a Boom, Spyfall, Saboteur, A Fake Artist Goes to New York, or Battlestar Galactica. In these games, asymmetry is critical because it facilitates deduction of a player's hidden allegiance based on how they act.
 - chase games, such as Scotland Yard, Mr. Jack, Fury of Dracula, or freeze tag. In these games, the primary game activity is inherently asymmetric.
-- one-versus-many games, such as Descent, Dead of Winter, or Mansions of Madness (first edition), which I suspect are mostly offshoots of tabletop RPGs (such as D&D) and so have inherited the concept of an "adventuring party". You could also look at these as cooperative games where the "game system" has been expanded into an actual player role. Ultimately, I think this model derives from traditional storytelling--their asymmetry results from the fact that one side is "protagonists" and the other is "antagonists".
+- one-versus-many games, such as Betrayal at House on the Hill, Descent, Dead of Winter, or Mansions of Madness (first edition), which I suspect are mostly offshoots of tabletop RPGs (such as D&D) and so have inherited the concept of an "adventuring party". You could also look at these as cooperative games where the "game system" has been expanded into an actual player role. Ultimately, I think this model derives from traditional storytelling--their asymmetry results from the fact that one side is "protagonists" and the other is "antagonists".
 Source: https://boardgamegeek.com/article/27705805#27705805
 
 BANG! is also asymmetric:
