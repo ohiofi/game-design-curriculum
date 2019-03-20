@@ -268,6 +268,15 @@ How to Create a Video Game World
 – Draw Out the Layout of This World
 Source: https://www.emwelsh.com/blog/video-game-world
 
+In Medias Res - Latin for "into the middle of things." Beginning the story with action rather than a boring intro.
+https://en.wikipedia.org/wiki/In_medias_res
+
+Exposition - From Latin, meaning "a showing forth." Introducing background info about events, settings, characters, etc to the audience/readers. For example, "A long time ago in a galaxy far away, far away…"
+https://en.wikipedia.org/wiki/Exposition_(narrative)
+
+"Show, Don't Tell" - Advice that writing should show actions, relationships, and feelings instead of just directly telling the reader what happened.
+https://en.wikipedia.org/wiki/Show,_don%27t_tell
+
 ## Serious Games / Games For Change
 Monopoly, the World's Best-Selling Game
 https://blog.ncase.me/i-do-and-i-understand/
