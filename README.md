@@ -268,7 +268,7 @@ How to Create a Video Game World
 – Draw Out the Layout of This World
 Source: https://www.emwelsh.com/blog/video-game-world
 
-In Medias Res - Latin for "into the middle of things." Beginning the story with action rather than a boring intro.
+In Medias Res - Latin for "into the middle of things." Beginning the story with action rather than a boring intro. For example, "Where's Papa going with that ax?"
 https://en.wikipedia.org/wiki/In_medias_res
 
 Exposition - From Latin, meaning "a showing forth." Introducing background info about events, settings, characters, etc to the audience/readers. For example, "A long time ago in a galaxy far away, far away…"
