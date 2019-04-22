@@ -338,6 +338,9 @@ https://ncase.me/trust/
 Roger Ebert "Video games can never be art"
 [http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html](http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html)
 
+Hideo Kojima (Metal Gear Solid) "I don't think they're art either, videogames."
+[https://www.eurogamer.net/articles/news240106kojimaart](https://www.eurogamer.net/articles/news240106kojimaart)
+
 Game Rules as Art
 [http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art](http://www.escapistmagazine.com/articles/view/video-games/issues/issue_41/247-Game-Rules-as-Art)
 
