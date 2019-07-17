@@ -215,6 +215,11 @@ Analysis of Candyland, Chutes & Ladders, etc. by datagenetics.com
 - Minesweeper http://datagenetics.com/blog/june12012/index.html
 
 
+The Best Mario Kart Character According to Data Science
+
+https://medium.com/civis-analytics/the-best-mario-kart-character-according-to-data-science-7dfb65d4c18e
+
+
 ## Reward Systems
 When should we schedule rewards?
 Cookie Clicker
