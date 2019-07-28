@@ -283,8 +283,12 @@ https://en.wikipedia.org/wiki/Exposition_(narrative)
 https://en.wikipedia.org/wiki/Show,_don%27t_tell
 
 ## Serious Games / Games For Change
+
 Monopoly, the World's Best-Selling Game
-https://blog.ncase.me/i-do-and-i-understand/
+[https://blog.ncase.me/i-do-and-i-understand/](https://blog.ncase.me/i-do-and-i-understand/)
+
+Candyland Was Invented for Polio Wards
+[https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
 
 Dumb Ways To Die by McCann
 [http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
