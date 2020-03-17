@@ -1,5 +1,18 @@
 # game-design-curriculum
 
+Table of Contents:
+ - [What is a Game?](#what-is-a-game)
+ - [Games of Chance / Games of Skill](#games-of-chance-vs-games-of-skill)
+   - [Solved Games](#solved-games)
+ - [Game Balance](#game-balance)
+   - [Dynamic Game Difficulty Balancings](#dynamic-game-difficulty-balancing)
+ - [Probability](#probability)
+   - [Independent Probability - Die Rolls / Coin Flips](#independent-probability---die-rolls--coin-flips)
+   - [Dependent Probability - Card Draws](#dependent-probability---card-draws)
+ - Game System
+ - Positive Feedback Loop / Negative Feedback Loop
+ - Rule Symmetry / Asymmetry
+
 ## What Is a Game?
 
 What is a Game?: Crash Course Games
@@ -33,14 +46,7 @@ BF Skinner & Positive Reinforcement
 
 
 
-## Critical Vocabulary
- - Game of Chance / Game of Skill
- - Solved Game
- - Game Balance
- - Pacing
- - Game System
- - Positive Feedback Loop / Negative Feedback Loop https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg
- - Rule Symmetry / Asymmetry
+
 
 
 
@@ -104,6 +110,19 @@ Mario Kart addresses skill gaps this with difficulty level ([50cc/100cc/150cc](h
 
 Difficulty Level
 https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
+
+## Feedback Loops
+
+
+How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
+
+One kind of dynamic that is often seen in games and deserves special attention is known as the feedback loop. There are two types, positive feedback loops and negative feedback loops. These terms are borrowed from other fields such as control systems and biology, and they mean the same thing in games that they mean elsewhere.
+
+Positive Feedback Loops reward players for performing well. It is a reinforcing relationship. Something happens that causes the same thing to happen again, which causes it to happen yet again, getting stronger in each iteration – like a snowball that starts out small at the top of the hill and gets larger and faster as it rolls and collects more snow.
+
+Negative feedback loops are, predictably, the opposite of positive feedback loops in just about every way. A negative feedback loop is a balancing relationship. When something happens in the game (such as one player gaining an advantage over the others), a negative feedback loop makes it harder for that same thing to happen again. If one player gets in the lead, a negative feedback loop makes it easier for the opponents to catch up (and harder for a winning player to extend their lead). In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). Source: https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
+
+
 
 #### Dynamic Game Difficulty Balancing
 
@@ -255,7 +274,7 @@ Games are finite state machines. There are a set number of game states. The game
 
 Discuss: Give me an example of a finite state machine (hardware device or software) and describe a few of its states.
 
-### Player Agency
+## Player Agency
 
 FPS Level Design - "...it is always advantageous for the player to have a number of paths to get to and from every major area in a multiplayer map."
 https://www.ongamedesign.net/designing-fps-multiplayer-maps-part-1/
@@ -265,6 +284,39 @@ https://en.wikipedia.org/wiki/Agency_(sociology)
 
 Player Agency: How Game Design Affects Narrative
 https://www.gamasutra.com/blogs/JoshBycer/20150126/234961/Player_Agency_How_Game_Design_Affects_Narrative.php
+
+Decisions are, in essence, what players do in a game. Remove all decisions and you have a movie or some other linear activity, not a game. As pointed out in Challenges, there are two important exceptions, games which have no decisions at all: some children’s games and some gambling games.
+
+#### Bad Decision Design
+
+Source: [https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557](https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557)
+
+Before describing good kinds of decisions, it is worth explaining some common kinds of uninteresting decisions commonly found in games. =
+
+**Meaningless decisions** are perhaps the worst kind: there is a choice to be made, but it has no effect on gameplay. If you can play either of two cards but both cards are identical, that’s not really much of a choice.
+
+**Obvious decisions** at least have an effect on the game, but there is clearly one right answer, so it’s not really much of a choice. Most of the time, the number of dice to roll in the board game RISK falls into this category; if you are attacking with 3 or more armies, you have a “decision” of whether to roll 1, 2, or 3 dice… but your odds are better rolling all 3, so it’s not much of a decision.
+
+**Blind decisions** have an effect on the game, and the answer is not obvious, but there is now an additional problem: the players do not have sufficient knowledge on which to make the decision, so it is essentially random. Playing Rock-Paper-Scissors against a truly random opponent falls into this category; your choice affects the outcome of the game, but you have no way of knowing what to choose.
+
+#### Good Decision Design
+
+Source: [https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557](https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557)
+
+Now that we know what makes weak decisions, the easiest answer is “don’t do that!” But we can take it a little further. Generally, interesting decisions involve some kind of tradeoff. That is, you are giving up one thing in exchange for another.
+
+**Resource trades**: You give one thing up in exchange for another, where both are valuable. Which is more valuable? This is a value judgment, and the player’s ability to correctly judge or anticipate value is what determines the game’s outcome.
+
+**Risk versus reward**: One choice is safe. The other choice has a potentially greater payoff, but also a higher risk of failure. Whether you choose safe or dangerous depends partly on how desperate a position you’re in, and partly on your analysis of just how safe or dangerous it is. The outcome is determined by your choice, plus a little luck… but over a sufficient number of choices, the luck can even out and the more skillful player will generally win. (Corollary: if you want more luck in your game, reduce the total number of decisions.)
+
+**Choice of actions**: You have several potential things you can do, but you can’t do them all. The player must choose the actions that they feel are the most important at the time.
+
+**Short term versus long term**: You can have something right now, or something better later on. The player must balance immediate needs against long-term goals.
+
+**Social information**: In games where bluffing, deal-making and backstabbing are allowed, players must choose between playing honestly or dishonestly. Dishonesty may let you come out better on the current deal, but may make other players less likely to deal with you in the future. In the right (or wrong) game, backstabbing your opponents may have very negative real-world consequences.
+
+**Dilemmas**: You must give up one of several things. Which one can you most afford to lose?
+
 
 ## Rule Symmetry/Asymmetry
 
