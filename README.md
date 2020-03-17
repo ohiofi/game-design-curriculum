@@ -8,10 +8,12 @@ What is a Game?: Crash Course Games
 Why Do We Play Games? by Vsauce
 [https://www.youtube.com/watch?v=e5jDspIC4hY](https://www.youtube.com/watch?v=e5jDspIC4hY)
 
-### Activity: Toys vs games vs puzzles vs simulations
+### Toys vs games vs puzzles vs simulations
 
 My Definition of 'Game' by Chris Crawford
 [http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html)
+
+Chris Crawford is a veteran game designer and founder of GDC (Game Developers Conference). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
 
 "X" isn’t a game!
 [http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/)
@@ -265,7 +267,7 @@ Source: https://boardgamegeek.com/geeklist/24128/item/480422#item480422
 ## Narrative Writing / World Building
 Everything I Needed To Know I Learned From The First Level
 
-How to Create a Video Game World 
+How to Create a Video Game World
 – Determine the Scope of Your World
 – Develop a Backstory for This World
 – Create a Culture and a System of Order
@@ -281,66 +283,6 @@ https://en.wikipedia.org/wiki/Exposition_(narrative)
 
 "Show, Don't Tell" - Advice that writing should show actions, relationships, and feelings instead of just directly telling the reader what happened.
 https://en.wikipedia.org/wiki/Show,_don%27t_tell
-
-## Serious Games / Games For Change
-
-Monopoly, the World's Best-Selling Game
-[https://blog.ncase.me/i-do-and-i-understand/](https://blog.ncase.me/i-do-and-i-understand/)
-
-Candyland Was Invented for Polio Wards
-[https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
-
-Dumb Ways To Die by McCann
-[http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
-
-Lim by Merritt Kopas
-[http://www.gamesforchange.org/game/lim/](http://www.gamesforchange.org/game/lim/)
-[https://www.youtube.com/watch?v=Dr0LdXhSnFk](YouTube review of Lim)
-
-Foldit by University of Washington
-[http://www.gamesforchange.org/game/foldit/](http://www.gamesforchange.org/game/foldit/)
-
-Zombies, Run! by Six to Start
-[http://www.gamesforchange.org/game/zombies-run/](http://www.gamesforchange.org/game/zombies-run/)
-
-Unity Games For Change Challenge
-https://blogs.unity3d.com/2018/07/25/making-games-for-change/
-
-The Dad That Hacked Into Donkey Kong for his Daughter
-[https://www.youtube.com/watch?v=XFS_xn-EpRY](https://www.youtube.com/watch?v=XFS_xn-EpRY)
-
-Creating Games with a Purpose
-[https://www.youtube.com/watch?v=QCCFaWnBDlM](https://www.youtube.com/watch?v=QCCFaWnBDlM)
-
-Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
-[http://www.depressionquest.com/](http://www.depressionquest.com/)
-
-"Depression Quest is the most important game I’ve ever played" by Mark Chen
-[http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
-
-Papers, Please
-[http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html](http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html)
-
-Darfur is Dying
-[http://www.darfurisdying.com/](http://www.darfurisdying.com/)
-
-Sweatshop
-[http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
-
-This War of Mine by 11 bit studios
-[http://www.gamesforchange.org/game/this-war-of-mine/](http://www.gamesforchange.org/game/this-war-of-mine/)
-
-### Nicky Case
-https://ncase.me/
-
-Parable of the Polygons by Nicky Case & Vi Hart
-[http://www.gamesforchange.org/game/parable-of-the-polygons/](http://www.gamesforchange.org/game/parable-of-the-polygons/)
-
-To Build A Better Ballot
-https://ncase.me/ballot/
-
-The Evolution of Trust (The Prisoner's Dilemma)
-https://ncase.me/trust/
 
 ## Are Video Games Art?
 
@@ -470,8 +412,70 @@ http://www.fastcodesign.com/1670801/creepy-video-game-lets-you-explore-its-maker
 Bad Trip: Navigate My Mind from KwanAlan on Vimeo
 https://vimeo.com/47943812
 
+## Serious Games / Games For Change
 
-## YouTube channels
+Monopoly, the World's Best-Selling Game
+[https://blog.ncase.me/i-do-and-i-understand/](https://blog.ncase.me/i-do-and-i-understand/)
+
+Candyland Was Invented for Polio Wards
+[https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/](https://www.theatlantic.com/technology/archive/2019/07/how-polio-inspired-the-creation-of-candy-land/594424/)
+
+Dumb Ways To Die by McCann
+[http://www.gamesforchange.org/game/dumb-ways-to-die/](http://www.gamesforchange.org/game/dumb-ways-to-die/)
+
+Lim by Merritt Kopas
+[http://www.gamesforchange.org/game/lim/](http://www.gamesforchange.org/game/lim/)
+[https://www.youtube.com/watch?v=Dr0LdXhSnFk](YouTube review of Lim)
+
+Foldit by University of Washington
+[http://www.gamesforchange.org/game/foldit/](http://www.gamesforchange.org/game/foldit/)
+
+Zombies, Run! by Six to Start
+[http://www.gamesforchange.org/game/zombies-run/](http://www.gamesforchange.org/game/zombies-run/)
+
+Unity Games For Change Challenge
+https://blogs.unity3d.com/2018/07/25/making-games-for-change/
+
+The Dad That Hacked Into Donkey Kong for his Daughter
+[https://www.youtube.com/watch?v=XFS_xn-EpRY](https://www.youtube.com/watch?v=XFS_xn-EpRY)
+
+Creating Games with a Purpose
+[https://www.youtube.com/watch?v=QCCFaWnBDlM](https://www.youtube.com/watch?v=QCCFaWnBDlM)
+
+Depression Quest by Zoë Quinn, Patrick Lindsey, and music by Isaac Schankler
+[http://www.depressionquest.com/](http://www.depressionquest.com/)
+
+"Depression Quest is the most important game I’ve ever played" by Mark Chen
+[http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/](http://depts.washington.edu/critgame/project/depression-quest-is-the-most-important-game-ive-ever-played/)
+
+Papers, Please
+[http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html](http://www.slate.com/blogs/future_tense/2013/08/23/papers_please_serious_video_game_raises_tricky_moral_questions.html)
+
+Darfur is Dying
+[http://www.darfurisdying.com/](http://www.darfurisdying.com/)
+
+Sweatshop
+[http://www.gamesforchange.org/game/sweatshop/](http://www.gamesforchange.org/game/sweatshop/)
+
+This War of Mine by 11 bit studios
+[http://www.gamesforchange.org/game/this-war-of-mine/](http://www.gamesforchange.org/game/this-war-of-mine/)
+
+### Nicky Case
+https://ncase.me/
+
+Parable of the Polygons by Nicky Case & Vi Hart
+[http://www.gamesforchange.org/game/parable-of-the-polygons/](http://www.gamesforchange.org/game/parable-of-the-polygons/)
+
+To Build A Better Ballot
+https://ncase.me/ballot/
+
+The Evolution of Trust (The Prisoner's Dilemma)
+https://ncase.me/trust/
+
+
+
+
+## Recommended YouTube channels for additional information
 
 Crash Course Games
 https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG
