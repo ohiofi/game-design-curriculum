@@ -8,58 +8,61 @@ What is a Game?: Crash Course Games
 Why Do We Play Games? by Vsauce
 [https://www.youtube.com/watch?v=e5jDspIC4hY](https://www.youtube.com/watch?v=e5jDspIC4hY)
 
-### Toys vs games vs puzzles vs simulations
+#### Toys vs games vs puzzles vs simulations
 
-My Definition of 'Game' by Chris Crawford
+**READ**: My Definition of 'Game' by Chris Crawford
 [http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html)
 
-Chris Crawford is a veteran game designer and founder of GDC (Game Developers Conference). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
+Chris Crawford is a veteran game designer and founder of the Game Developers Conference (GDC). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
+
+Which category do the following describe?
+- challenges without opponents that have clearly defined goals
+- interactive playthings, simulations, and sandbox games without defined goals
+- challenges with opponents without direct interaction between the competitors
+- narratives with limited interaction in which the primary entertainment value is the storyline
+- challenges with opponents in which the players (human or A.I.) directly interact in such a way as to foil each other’s goals
 
 "X" isn’t a game!
-[http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/)
+[http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/) - review Raph Koster's venn diagram of games and digital interactive art
 
 Cow Clicker by Ian Bogost
-[http://bogost.com/games/cow_clicker/](http://bogost.com/games/cow_clicker/)
+[http://bogost.com/games/cow_clicker/](http://bogost.com/games/cow_clicker/) - an experiment and deconstructive satire of social games by a Georgia Tech professor
 
 BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
 
-## Game Balance
-http://gamebalanceconcepts.wordpress.com
 
-Critical Vocabulary
+
+## Critical Vocabulary
+ - Game of Chance / Game of Skill
+ - Solved Game
  - Game Balance
  - Pacing
  - Game System
- - Positive Feedback Loop
- - Negative Feedback Loop https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg
- - Deterministic/Solvable
- - Rule Symetry/Asymetry
-
-Numeric Relationships
-Linear
-Resource Systems & Economic Systems
-Supply/Demand
-Auction
-Transitive Mechanics - Cost/Benefit Analysis
+ - Positive Feedback Loop / Negative Feedback Loop https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg
+ - Rule Symmetry / Asymmetry
 
 
 
-## Games of Chance vs. Games of Skill
-Discuss: What are some games of chance?
+## Games of Chance vs Games of Skill
+
+**Discuss**: What are some games of chance?
+
 How to Win at Candyland
 https://www.youtube.com/watch?v=CC9ogJy2bwk
 
 DataGenetics.com "There is no skill required to play Candyland (other than being able to recognise colours)"
 http://datagenetics.com/blog/december12011/index.html
 
-Discuss: How would YOU improve Candyland?
+**Discuss**: How would YOU improve Candyland?
+
 https://vignette.wikia.nocookie.net/candy-land/images/3/39/Candyland_Game_Board.jpg
 
 Luck and Skill in Games by Skaff Elias
 https://youtu.be/2owa2s8GdlM?t=958
 
-Discuss: What are some games of skill?
+**Discuss**: What are some games of skill?
+
 Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
@@ -78,9 +81,8 @@ https://en.wikipedia.org/wiki/Category:Solved_games
 - Nim
 
 #### Being out of your league / swimming out of your depth
-Imagine boxing Manny Pacquiao or Floyd Mayweather.
-Imagine playing chess against a Grand Master.
-Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo.
+
+Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo. You would likely be so out-matched that it would not be a very fun game.
 
 ## Game Balance
 
@@ -88,8 +90,10 @@ Essential question: Is the game fair?
 
 This game is not fair | Trap adventures 2
 https://www.youtube.com/watch?v=l7JoFDOU7YA
+
 YOU’RE A TROLL! | TRAP ADVENTURE 2 (Adults React: Gaming)
 https://www.youtube.com/watch?v=yfftgaedPwg
+
 UNFAIR MARIO (React: Gaming)
 https://www.youtube.com/watch?v=nBWimCDEo7o
 
@@ -102,10 +106,13 @@ Difficulty Level
 https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
 #### Dynamic Game Difficulty Balancing
+
 https://en.wikipedia.org/wiki/Dynamic_game_difficulty_balancing
 
 Rubber Band A.I.
 https://www.giantbomb.com/rubber-band-ai/3015-35/
+
+How does Mario Kart incorporate Dynamic Game Difficulty Balancing? What items does a high ranked player receive compared to a low ranked player?
 
 Mario Kart - Rubber Band AI
 https://www.youtube.com/watch?v=Zoh5X30Qz-E&feature=youtu.be&t=29
@@ -115,6 +122,10 @@ https://www.youtube.com/watch?v=3FU5OJxj75c
 
 Is Mario Kart unfair?
 https://www.youtube.com/results?search_query=is+mario+kart+unfair
+
+Left 4 Dead has a AI Director system "...which dynamically adjusts the game’s dramatics and pacing along with the difficulty. For example, spawning enemies are appropriately placed and numbered based on the player's current situation." [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
+
+"...in Max Payne the game dynamically adjusts the strength of enemies and can also provide different levels of aiming assistance for players" [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
 
 ## Probability
 
@@ -240,6 +251,10 @@ Multiple victory or loss conditions. For example, a round of Pokémon Trading Ca
 - When one player has run out of cards in his Deck and is unable to draw at the beginning of his turn.
 Source: https://en.wikipedia.org/wiki/Game_mechanics#Combination_conditions
 
+Games are finite state machines. There are a set number of game states. The game is not infinite. A finite state machine is hardware or software that moves through a series of modes and can only be in one mode at a time.
+
+Discuss: Give me an example of a finite state machine (hardware device or software) and describe a few of its states.
+
 ### Player Agency
 
 FPS Level Design - "...it is always advantageous for the player to have a number of paths to get to and from every major area in a multiplayer map."
@@ -250,6 +265,14 @@ https://en.wikipedia.org/wiki/Agency_(sociology)
 
 Player Agency: How Game Design Affects Narrative
 https://www.gamasutra.com/blogs/JoshBycer/20150126/234961/Player_Agency_How_Game_Design_Affects_Narrative.php
+
+## Rule Symmetry/Asymmetry
+
+Rule Symmetry means that all players share the same goals, rules, victory conditions.
+
+Rule Asymmetry means that some players have different goals, rules, victory conditions.
+
+The rules are different for goalies compared to other hockey players, but this does not mean that ice hockey is an asymmetric game. Both teams share the same goals, rules, and victory conditions. It would only be asymmetric if one team were all-time offense and the other team all-time defense.
 
 ### Asymmetric Win Conditions
 Common styles of asymmetric games:
@@ -264,8 +287,10 @@ BANG! is also asymmetric:
 - Renegade: All players dead but himself. The game ends when the sheriff dies, so the renegade only wins if he kills the sheriff last.
 Source: https://boardgamegeek.com/geeklist/24128/item/480422#item480422
 
+
+
 ## Narrative Writing / World Building
-Everything I Needed To Know I Learned From The First Level
+You should be able to say, "Everything I needed to know about the game, I learned from the first level." The player should be able to infer the basic moves of the game, the mood and feel of the game, the culture of the world, etc.
 
 How to Create a Video Game World
 – Determine the Scope of Your World
@@ -273,15 +298,18 @@ How to Create a Video Game World
 – Create a Culture and a System of Order
 – Create Items for Your World
 – Draw Out the Layout of This World
+
 Source: https://www.emwelsh.com/blog/video-game-world
 
-In Medias Res - Latin for "into the middle of things." Beginning the story with action rather than a boring intro. For example, "Where's Papa going with that ax?"
+In Medias Res - Latin for "into the middle of things." Beginning the story with action. For example, "Where's Papa going with that ax?" This is preferable when compared to a boring intro giving the entire backstory.
 https://en.wikipedia.org/wiki/In_medias_res
 
-Exposition - From Latin, meaning "a showing forth." Introducing background info about events, settings, characters, etc to the audience/readers. For example, "A long time ago in a galaxy far away, far away…"
+Exposition - From Latin, meaning "a showing forth." Introducing background info about events, settings, characters, etc to the audience/readers. In other words, backstory. For example, "A long time ago in a galaxy far away, far away…" Too much exposition is generally considered a bad thing.
 https://en.wikipedia.org/wiki/Exposition_(narrative)
 
-"Show, Don't Tell" - Advice that writing should show actions, relationships, and feelings instead of just directly telling the reader what happened.
+Exposition is a two-edged sword. While it is extremely useful for establishing setting, plot, and characterization, too much exposition at once can bog down a story and slow the pace to a crawl. An exposition that is overly long or wordy is known as an Information Dump (or Info Dump for short) and is very difficult to do well. Source: https://tvtropes.org/pmwiki/pmwiki.php/Main/Exposition
+
+"Show, Don't Tell" - Advice that narrative writing should show actions, relationships, and feelings instead of just directly telling the reader what happened. Too much exposition is generally considered a bad thing.
 https://en.wikipedia.org/wiki/Show,_don%27t_tell
 
 ## Are Video Games Art?
