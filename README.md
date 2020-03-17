@@ -9,9 +9,21 @@ Table of Contents:
  - [Probability](#probability)
    - [Independent Probability - Die Rolls / Coin Flips](#independent-probability---die-rolls--coin-flips)
    - [Dependent Probability - Card Draws](#dependent-probability---card-draws)
- - Game System
- - Positive Feedback Loop / Negative Feedback Loop
- - Rule Symmetry / Asymmetry
+   - [Problems with Probability](#problems-with-probability)
+   - [Pseudo-Random number generation on computers](#pseudo-random-number-generation-on-computers)
+   - [Game Theory: Psychology + Games](#game-theory-psychology--games)
+   - [Infinite Repetition](#infinite-repetition)
+   - [Markov Chain](#markov-chain---probability-between-states)
+ - [Player Agency](#player-agency)
+   - [Bad Decision Design](#bad-decision-design)
+   - [Good Decision Design](#good-decision-design)
+ - [Rule Symmetry/Asymmetry](#rule-symmetryasymmetry)
+   - [Asymmetric Win Conditions](#asymmetric-win-conditions)
+ - [Narrative Writing / World Building](#narrative-writing--world-building)
+ - [Are Video Games Art?](#are-video-games-art)
+   - [Art-y Games](#art-y-games)
+ - [Interactive Art](#interactive-art)
+ - [Serious Games / Games For Change](#serious-games--games-for-change)
 
 ## What Is a Game?
 
@@ -142,7 +154,7 @@ https://www.youtube.com/watch?v=3FU5OJxj75c
 Is Mario Kart unfair?
 https://www.youtube.com/results?search_query=is+mario+kart+unfair
 
-Left 4 Dead has a AI Director system "...which dynamically adjusts the game’s dramatics and pacing along with the difficulty. For example, spawning enemies are appropriately placed and numbered based on the player's current situation." [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
+Left 4 Dead has an AI Director system "...which dynamically adjusts the game’s dramatics and pacing along with the difficulty. For example, spawning enemies are appropriately placed and numbered based on the player's current situation." [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
 
 "...in Max Payne the game dynamically adjusts the strength of enemies and can also provide different levels of aiming assistance for players" [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
 
@@ -254,8 +266,7 @@ https://medium.com/civis-analytics/the-best-mario-kart-character-according-to-da
 
 ## Reward Systems
 When should we schedule rewards?
-Cookie Clicker
-Psychologically manipulate players to keep playing
+Cookie Clicker and Farmville psychologically manipulate players to keep playing
 
 ## Calculating Score
 How can you make the player's score go down with time?
@@ -291,7 +302,7 @@ Decisions are, in essence, what players do in a game. Remove all decisions and y
 
 Source: [https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557](https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557)
 
-Before describing good kinds of decisions, it is worth explaining some common kinds of uninteresting decisions commonly found in games. =
+Before describing good kinds of decisions, it is worth explaining some common kinds of uninteresting decisions commonly found in games.
 
 **Meaningless decisions** are perhaps the worst kind: there is a choice to be made, but it has no effect on gameplay. If you can play either of two cards but both cards are identical, that’s not really much of a choice.
 
@@ -367,8 +378,14 @@ https://en.wikipedia.org/wiki/Show,_don%27t_tell
 ## Are Video Games Art?
 
 Roger Ebert "Video games can never be art"
-[http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html](http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html)
+[https://www.rogerebert.com/rogers-journal/video-games-can-never-be-art](https://www.rogerebert.com/rogers-journal/video-games-can-never-be-art)
 [https://www.eurogamer.net/articles/news301105ebert](https://www.eurogamer.net/articles/news301105ebert)
+
+
+"I am prepared to believe that video games can be elegant, subtle, sophisticated, challenging and visually wonderful. But I believe the nature of the medium prevents it from moving beyond craftsmanship to the stature of art. To my knowledge, no one in or out of the field has ever been able to cite a game worthy of comparison with the great dramatists, poets, filmmakers, novelists and composers. That a game can aspire to artistic importance as a visual experience, I accept. But for most gamers, video games represent a loss of those precious hours we have available to make ourselves more cultured, civilized and empathetic."
+ - Roger Ebert [Source](https://www.rogerebert.com/answer-man/why-did-the-chicken-cross-the-genders)
+
+
 
 Hideo Kojima (Metal Gear Solid) "I don't think they're art either, videogames."
 [https://www.eurogamer.net/articles/news240106kojimaart](https://www.eurogamer.net/articles/news240106kojimaart)
