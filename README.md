@@ -81,9 +81,6 @@ https://youtu.be/2owa2s8GdlM?t=958
 
 **Discuss**: What are some games of skill?
 
-Nim
-https://www.archimedes-lab.org/game_nim/play_nim_game.html
-
 Not enough luck could lead to:
 - Solved Games
 - Being out of your league / swimming out of your depth
@@ -97,6 +94,9 @@ https://en.wikipedia.org/wiki/Category:Solved_games
 - Tic Tac Toe
 - Order and Chaos
 - Nim
+
+**TRY IT >>>** Nim
+https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
 #### Being out of your league / swimming out of your depth
 
