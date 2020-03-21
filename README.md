@@ -83,7 +83,7 @@ https://youtu.be/2owa2s8GdlM?t=958
 
 Not enough luck could lead to:
 - Solved Games
-- Being out of your league / swimming out of your depth
+- Being out-matched / out of your league / swimming out of your depth
 
 #### Solved Games
 
@@ -115,16 +115,34 @@ https://www.youtube.com/watch?v=yfftgaedPwg
 UNFAIR MARIO (React: Gaming)
 https://www.youtube.com/watch?v=nBWimCDEo7o
 
-Some games of skill address skill gaps with handicapping
-https://en.wikipedia.org/wiki/Handicapping
+A game is considered "unfair" if the player has a lack of control of the outcome. This could be cause by:
+- too much random chance (War or Candyland)
+- an imbalance caused by poor game design (for example, if the first player wins 90% of all games)
+- an imbalance caused by a skill gap (being out-matched) or an extreme level of difficulty
+
+Some games of skill try to make the game more fair by addressing skill gaps using handicapping https://en.wikipedia.org/wiki/Handicapping
+
+Handicapping exists in:
+- Horse racing
+- Golf
+- Chess
+- Go
+- Shogi
+- Gliding
+- Polo
+- Sailing
+- Tennis
 
 Mario Kart addresses skill gaps this with difficulty level ([50cc/100cc/150cc](http://mariokartwii.wikia.com/wiki/CC)), [item distribution](https://www.youtube.com/watch?v=3FU5OJxj75c&feature=youtu.be&t=148), and dynamic game difficulty balancing.
 
 Difficulty Level
 https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
-## Feedback Loops
+A "well balanced" game has multiple paths to victory (strategies, items, options, character choice) and no single path is over-powered.
 
+If one path is always an obvious and better choice, most everyone will use the same path and other aspects of the game suffer. It becomes a game of skill and can become solved.
+
+## Feedback Loops
 
 How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
 
