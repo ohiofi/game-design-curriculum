@@ -142,6 +142,8 @@ A "well balanced" game has multiple paths to victory (strategies, items, options
 
 If one path is always an obvious and better choice, most everyone will use the same path and other aspects of the game suffer. It becomes a game of skill and can become solved.
 
+How Games Get Balanced by Game Maker's Toolkit https://www.youtube.com/watch?v=WXQzdXPTb2A
+
 ## Feedback Loops
 
 How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
