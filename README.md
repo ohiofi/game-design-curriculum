@@ -160,6 +160,9 @@ Games need to be complex enough that they won't be solved, but simple enough tha
 3 Minute Game Design: Episode 3 - How Games Work
 https://www.youtube.com/watch?v=R9io0mK-5Ec
 
+Strategic Uncertainty - Keeping Strategy Games Fresh by Extra Credits
+https://www.youtube.com/watch?v=PJKTDz1zYzs
+
 ## Feedback Loops
 
 How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
