@@ -373,6 +373,8 @@ Source: https://boardgamegeek.com/geeklist/24128/item/480422#item480422
 ## Narrative Writing / World Building
 You should be able to say, "Everything I needed to know about the game, I learned from the first level." The player should be able to infer the basic moves of the game, the mood and feel of the game, the culture of the world, etc.
 
+Teach players the mechanics by "showing" them, not "telling" them. Half-Life 2's Invisible Tutorial | Teaching Players by Game Maker's Toolkit https://www.youtube.com/watch?v=MMggqenxuZc
+
 How to Create a Video Game World
 – Determine the Scope of Your World
 – Develop a Backstory for This World
@@ -392,6 +394,8 @@ Exposition is a two-edged sword. While it is extremely useful for establishing s
 
 "Show, Don't Tell" - Advice that narrative writing should show actions, relationships, and feelings instead of just directly telling the reader what happened. Too much exposition is generally considered a bad thing.
 https://en.wikipedia.org/wiki/Show,_don%27t_tell
+
+God of War and the Mechanics of an Epic Story (No Spoilers) by NIKMOE https://www.youtube.com/watch?v=wCB1JOcJHOE
 
 ## Are Video Games Art?
 
