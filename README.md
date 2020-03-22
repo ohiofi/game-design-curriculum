@@ -148,6 +148,11 @@ If one path is always an obvious and better choice, most everyone will use the s
 
 How Games Get Balanced by Game Maker's Toolkit https://www.youtube.com/watch?v=WXQzdXPTb2A
 
+Games need to be complex enough that they won't be solved, but simple enough that they are learnable. We can't give the player 0% of the information that they need to win (a completely random game) and we can't give them 100% of the infomation (a solved game).
+
+3 Minute Game Design: Episode 3 - How Games Work
+https://www.youtube.com/watch?v=R9io0mK-5Ec
+
 ## Feedback Loops
 
 How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
@@ -331,6 +336,7 @@ https://en.wikipedia.org/wiki/Agency_(sociology)
 
 Player Agency: How Game Design Affects Narrative
 https://www.gamasutra.com/blogs/JoshBycer/20150126/234961/Player_Agency_How_Game_Design_Affects_Narrative.php
+
 
 Decisions are, in essence, what players do in a game. Remove all decisions and you have a movie or some other linear activity, not a game. As pointed out in Challenges, there are two important exceptions, games which have no decisions at all: some children’s games and some gambling games.
 
