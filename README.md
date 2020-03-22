@@ -470,6 +470,9 @@ https://youtu.be/8fXE-E1hjKk?t=826
 Using Narrative as Context - Balancing Gameplay and Story Elements by Extra Credits
 https://www.youtube.com/watch?v=Izk-e0WrjP0
 
+Information Density - How Mr. Robot Does a Lot with a Little by Extra Credits
+https://www.youtube.com/watch?v=ghrI2Vb8u2U
+
 ## Are Video Games Art?
 
 Roger Ebert "Video games can never be art"
