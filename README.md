@@ -148,6 +148,13 @@ If one path is always an obvious and better choice, most everyone will use the s
 
 How Games Get Balanced by Game Maker's Toolkit https://www.youtube.com/watch?v=WXQzdXPTb2A
 
+### Hidden Information
+
+Analysis paralysis is a problem in which a player is constantly pausing to think about strategy. The game loses it's flow and slows down.
+
+Choice Paralysis - Too Much of a Good Thing by Extra Credits
+https://www.youtube.com/watch?v=_2LKrwiGFFs
+
 Games need to be complex enough that they won't be solved, but simple enough that they are learnable. We can't give the player 0% of the information that they need to win (a completely random game) and we can't give them 100% of the infomation (a solved game).
 
 3 Minute Game Design: Episode 3 - How Games Work
@@ -193,6 +200,9 @@ Randomness provides variety. It is better to generate something random and allow
 
 **Input randomness** informs the player before they make a decision. Typical examples of input randomness would be map generation in Civilization or Rogue. Random face-up tile placement in board game like Catan. People often use the term “procedural generation” to refer to this kind of randomness in digital games.
 
+How (and Why) Spelunky Makes its Own Levels by Game Maker's Toolkit
+https://www.youtube.com/watch?v=Uqk5Zf0tw3o
+
 **Output randomness** decides an outcome. It is noise injected between the player’s decision and the outcome. Examples would be the dice roll combat in Risk or Memoir ’44, or the random number generation combat in X-Com or FTL. Can be frustrating to a player when their plans fail due to bad luck.
 
 3 Minute Game Design: Episode 6 - Output Randomness by Keith Burgun
@@ -200,6 +210,9 @@ https://www.youtube.com/watch?v=2qfFEP_-LkI
 
 The Two Types of Random by Game Maker's Toolkit
 https://www.youtube.com/watch?v=dwI5b-wRLic
+
+The Price of Randomness - Balancing RNG by Extra Credits
+https://www.youtube.com/watch?v=ry2xz5yYZwY
 
 ### Independent Probability - Die Rolls / Coin Flips
 Khan Academy - Intro to theoretical probability
@@ -257,6 +270,9 @@ https://www.youtube.com/watch?v=UkXI-zPcDIM
 
 Prisoner's Dilemma in Trivia Murder Party by Jackbox
 https://youtu.be/5mG4sPitpQE?list=PLh1dW-aN_NIVzINnN2eSbPaoE2PZVnYDZ&t=302
+
+The Prisoner's Dilemma - The Game Theory of Decision-Making by Extra Credits
+https://www.youtube.com/watch?v=K5TRstDfQDg
 
 Golden Balls split or steal
 https://www.youtube.com/results?search_query=golden+balls+split+or+steal
@@ -400,6 +416,9 @@ You should be able to say, "Everything I needed to know about the game, I learne
 How Level Design Can Tell a Story by Game Maker's Toolkit
 https://www.youtube.com/watch?v=RwlnCn2EB9o
 
+Tutorials That Don't Talk Down To You - Context Sensitive Design by Extra Credits
+https://www.youtube.com/watch?v=hFdEEzgc7pg
+
 How to Create a Video Game World
 – Determine the Scope of Your World
 – Develop a Backstory for This World
@@ -417,16 +436,32 @@ https://en.wikipedia.org/wiki/Exposition_(narrative)
 
 Exposition is a two-edged sword. While it is extremely useful for establishing setting, plot, and characterization, too much exposition at once can bog down a story and slow the pace to a crawl. An exposition that is overly long or wordy is known as an Information Dump (or Info Dump for short) and is very difficult to do well. Source: https://tvtropes.org/pmwiki/pmwiki.php/Main/Exposition
 
+More Than Exposition - Building Worlds without Info Dumps by Extra Credits
+https://www.youtube.com/watch?v=TEERJ1a2rsU
+
+### Show Don't Tell
+
 "Show, Don't Tell" - Advice that narrative writing should show actions, relationships, and feelings instead of just directly telling the reader what happened. Too much exposition is generally considered a bad thing.
 https://en.wikipedia.org/wiki/Show,_don%27t_tell
 
 Teach players the mechanics by "showing" them, not "telling" them. Half-Life 2's Invisible Tutorial | Teaching Players by Game Maker's Toolkit https://www.youtube.com/watch?v=MMggqenxuZc
+
+Mechanics Shaping Story - Re-examining the Core Gameplay Loop by Extra Credits
+https://www.youtube.com/watch?v=f5I6uo39ujQ
 
 God of War and the Mechanics of an Epic Story (No Spoilers) by NIKMOE
 https://www.youtube.com/watch?v=wCB1JOcJHOE
 
 Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay
 https://youtu.be/8fXE-E1hjKk?t=826
+
+### Sometimes Less Is More
+
+"I'd like to go with as little story as possible," he (Shigeru Miyamoto) said. "I've always felt that the Mario games themselves aren't particularly suited to having a very heavy story." The Legend of Zelda games, he feels, should have deep storylines – but not Mario. [Source](https://www.wired.com/2009/06/super-mario-galaxy-2/)
+
+
+Using Narrative as Context - Balancing Gameplay and Story Elements by Extra Credits
+https://www.youtube.com/watch?v=Izk-e0WrjP0
 
 ## Are Video Games Art?
 
