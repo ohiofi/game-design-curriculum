@@ -411,7 +411,11 @@ BANG! is also asymmetric:
 - Renegade: All players dead but himself. The game ends when the sheriff dies, so the renegade only wins if he kills the sheriff last.
 Source: https://boardgamegeek.com/geeklist/24128/item/480422#item480422
 
+Overwatch and Asymmetric Level Design - What Makes the Maps Fun? by Extra Credits
+https://www.youtube.com/watch?v=4DynhzEQtog
 
+Overwatch and Asymmetric Character Design - The Challenge of Varied Playstyles by Extra Credits
+https://www.youtube.com/watch?v=NEpeGSFQ1tM
 
 ## Narrative Writing / World Building
 You should be able to say, "Everything I needed to know about the game, I learned from the first level." The player should be able to infer the basic moves of the game, the mood and feel of the game, the culture of the world, etc.
