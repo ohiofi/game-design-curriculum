@@ -47,6 +47,9 @@ Which category do the following describe?
 - narratives with limited interaction in which the primary entertainment value is the storyline
 - challenges with opponents in which the players (human or A.I.) directly interact in such a way as to foil each other’s goals
 
+3 Minute Game Design: Episode 2 - The Forms
+https://www.youtube.com/watch?v=MgyVwFRrzcU
+
 "X" isn’t a game!
 [http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/) - review Raph Koster's venn diagram of games and digital interactive art
 
@@ -82,6 +85,7 @@ https://youtu.be/2owa2s8GdlM?t=958
 **Discuss**: What are some games of skill?
 
 Not enough luck could lead to:
+- Analysis Paralysis
 - Solved Games
 - Being out-matched / out of your league / swimming out of your depth
 
@@ -179,6 +183,18 @@ Left 4 Dead has an AI Director system "...which dynamically adjusts the game’s
 "...in Max Payne the game dynamically adjusts the strength of enemies and can also provide different levels of aiming assistance for players" [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
 
 ## Probability
+
+Randomness provides variety. It is better to generate something random and allow the player to respond to it, rather than make a player's action random.
+
+**Input randomness** informs the player before they make a decision. Typical examples of input randomness would be map generation in Civilization or Rogue. Random face-up tile placement in board game like Catan. People often use the term “procedural generation” to refer to this kind of randomness in digital games.
+
+**Output randomness** decides an outcome. It is noise injected between the player’s decision and the outcome. Examples would be the dice roll combat in Risk or Memoir ’44, or the random number generation combat in X-Com or FTL. Can be frustrating to a player when their plans fail due to bad luck.
+
+3 Minute Game Design: Episode 6 - Output Randomness by Keith Burgun
+https://www.youtube.com/watch?v=2qfFEP_-LkI
+
+The Two Types of Random by Game Maker's Toolkit
+https://www.youtube.com/watch?v=dwI5b-wRLic
 
 ### Independent Probability - Die Rolls / Coin Flips
 Khan Academy - Intro to theoretical probability
@@ -375,7 +391,8 @@ Source: https://boardgamegeek.com/geeklist/24128/item/480422#item480422
 ## Narrative Writing / World Building
 You should be able to say, "Everything I needed to know about the game, I learned from the first level." The player should be able to infer the basic moves of the game, the mood and feel of the game, the culture of the world, etc.
 
-Teach players the mechanics by "showing" them, not "telling" them. Half-Life 2's Invisible Tutorial | Teaching Players by Game Maker's Toolkit https://www.youtube.com/watch?v=MMggqenxuZc
+How Level Design Can Tell a Story by Game Maker's Toolkit
+https://www.youtube.com/watch?v=RwlnCn2EB9o
 
 How to Create a Video Game World
 – Determine the Scope of Your World
@@ -397,7 +414,13 @@ Exposition is a two-edged sword. While it is extremely useful for establishing s
 "Show, Don't Tell" - Advice that narrative writing should show actions, relationships, and feelings instead of just directly telling the reader what happened. Too much exposition is generally considered a bad thing.
 https://en.wikipedia.org/wiki/Show,_don%27t_tell
 
-God of War and the Mechanics of an Epic Story (No Spoilers) by NIKMOE https://www.youtube.com/watch?v=wCB1JOcJHOE
+Teach players the mechanics by "showing" them, not "telling" them. Half-Life 2's Invisible Tutorial | Teaching Players by Game Maker's Toolkit https://www.youtube.com/watch?v=MMggqenxuZc
+
+God of War and the Mechanics of an Epic Story (No Spoilers) by NIKMOE
+https://www.youtube.com/watch?v=wCB1JOcJHOE
+
+Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay
+https://youtu.be/8fXE-E1hjKk?t=826
 
 ## Are Video Games Art?
 
