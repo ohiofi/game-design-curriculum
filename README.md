@@ -290,8 +290,8 @@ https://www.youtube.com/watch?v=C82JyCmtKWg
 Prisoners' dilemma and Nash equilibrium | Microeconomics | Khan Academy
 https://www.youtube.com/watch?v=UkXI-zPcDIM
 
-Prisoner's Dilemma in Trivia Murder Party by Jackbox
-https://youtu.be/5mG4sPitpQE?list=PLh1dW-aN_NIVzINnN2eSbPaoE2PZVnYDZ&t=302
+Prisoner's Dilemma in [Trivia Murder Party](https://jackboxgames.fandom.com/wiki/Trivia_Murder_Party) by Jackbox. A pile of money is in the middle of the floor. The player can choose to take it or not. If nobody takes the money, nobody dies. If anyone takes the money, everyone who didn’t will die. Players that take the money split $2000. If everyone takes the money, everyone dies.
+https://drive.google.com/open?id=1uHGm9jZqNHmXKu6Suk2njpYBVKolKqIU
 
 The Prisoner's Dilemma - The Game Theory of Decision-Making by Extra Credits
 https://www.youtube.com/watch?v=K5TRstDfQDg
