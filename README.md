@@ -432,17 +432,19 @@ Rule Asymmetry means that some players have different goals, rules, victory cond
 The rules are different for goalies compared to other hockey players, but this does not mean that ice hockey is an asymmetric game. Both teams share the same goals, rules, and victory conditions. It would only be asymmetric if one team were all-time offense and the other team all-time defense.
 
 ### Asymmetric Win Conditions
-Common styles of asymmetric games [Source](https://boardgamegeek.com/article/27705805#27705805):
+Common styles of asymmetric games:
 - social deduction games (hidden loyalty games) such as Werewolf, The Resistance, Two Rooms and a Boom, Spyfall, Saboteur, A Fake Artist Goes to New York, or Battlestar Galactica. In these games, asymmetry is critical because it facilitates deduction of a player's hidden allegiance based on how they act.
 - chase games, such as Scotland Yard, Mr. Jack, Fury of Dracula, or freeze tag. In these games, the primary game activity is inherently asymmetric.
 - one-versus-many games, such as Betrayal at House on the Hill, Descent, Dead of Winter, or Mansions of Madness (first edition), which I suspect are mostly offshoots of tabletop RPGs (such as D&D) and so have inherited the concept of an "adventuring party". You could also look at these as cooperative games where the "game system" has been expanded into an actual player role. Ultimately, I think this model derives from traditional storytelling--their asymmetry results from the fact that one side is "protagonists" and the other is "antagonists".
 
+[Source](https://boardgamegeek.com/article/27705805#27705805)
 
-BANG! is an asymmetric card game [Source](https://boardgamegeek.com/geeklist/24128/item/480422#item480422):
+BANG! is an asymmetric card game:
 - Sheriff and Deputies: Win if all outlaws and renegade dead, sheriff still alive.
 - Outlaws: Win if Sheriff dead.
 - Renegade: All players dead but himself. The game ends when the sheriff dies, so the renegade only wins if he kills the sheriff last.
 
+[Source](https://boardgamegeek.com/geeklist/24128/item/480422#item480422)
 
 Overwatch and Asymmetric Level Design - What Makes the Maps Fun? by Extra Credits
 https://www.youtube.com/watch?v=4DynhzEQtog
