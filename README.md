@@ -18,12 +18,18 @@ Table of Contents:
    - [Game Theory: Psychology + Games](#game-theory-psychology--games)
    - [Infinite Repetition](#infinite-repetition)
    - [Markov Chain](#markov-chain---probability-between-states)
+ - [Reward Systems](#reward-systems)
+   - [Calculating Score](#calculating-score)
+   - [Multiple Paths to Victory](#multiple-paths-to-victory)
  - [Player Agency](#player-agency)
    - [Bad Decision Design](#bad-decision-design)
    - [Good Decision Design](#good-decision-design)
  - [Rule Symmetry/Asymmetry](#rule-symmetryasymmetry)
    - [Asymmetric Win Conditions](#asymmetric-win-conditions)
  - [Narrative Writing / World Building](#narrative-writing--world-building)
+   - [Show Don't Tell](#show-dont-tell)
+   - [Sometimes Less Is More](#sometimes-less-is-more)
+   - [Elegant Game Design](#elegant-game-design)
  - [Are Video Games Art?](#are-video-games-art)
    - [Art-y Games](#art-y-games)
  - [Interactive Art](#interactive-art)
@@ -293,6 +299,8 @@ https://www.youtube.com/watch?v=UkXI-zPcDIM
 Prisoner's Dilemma in [Trivia Murder Party](https://jackboxgames.fandom.com/wiki/Trivia_Murder_Party) by Jackbox. A pile of money is in the middle of the floor. The player can choose to take it or not. If nobody takes the money, nobody dies. If anyone takes the money, everyone who didn’t will die. Players that take the money split $2000. If everyone takes the money, everyone dies.
 https://drive.google.com/open?id=1uHGm9jZqNHmXKu6Suk2njpYBVKolKqIU
 
+TRY IT >>> The Evolution of Trust (The Prisoner's Dilemma) by Nicky Case https://ncase.me/trust/
+
 The Prisoner's Dilemma - The Game Theory of Decision-Making by Extra Credits
 https://www.youtube.com/watch?v=K5TRstDfQDg
 
@@ -320,6 +328,12 @@ http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
 ### Markov Chain - probability between states
 
 A Markov Chain is a finite state machine that moves from one state to another according to certain probabilistic rules. Markov Chains can be used to model the probabilities of game states.
+
+Games are finite state machines. There are a set number of game states. The game is not infinite. 
+
+A **finite state machine** is hardware or software that moves through a series of modes and can only be in one mode at a time. A traffic light is a common example of a finite state machine. 
+
+Discuss: Give me an example of a finite state machine (hardware device or software) and describe a few of its states.
 
 botnik.org's Harry Potter and the Portrait of what Looked Like a Large Pile of Ash
 https://www.youtube.com/watch?v=x-uDnlGJRdk
@@ -363,11 +377,6 @@ Multiple victory or loss conditions. For example, a round of Pokémon Trading Ca
 - When one player has run out of cards in his Deck and is unable to draw at the beginning of his turn.
 
 
-Games are finite state machines. There are a set number of game states. The game is not infinite. 
-
-A **finite state machine** is hardware or software that moves through a series of modes and can only be in one mode at a time. A traffic light is a common example of a finite state machine. 
-
-Discuss: Give me an example of a finite state machine (hardware device or software) and describe a few of its states.
 
 ## Player Agency
 
