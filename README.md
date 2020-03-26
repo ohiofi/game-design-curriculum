@@ -37,7 +37,7 @@ What is a Game?: Crash Course Games
 Why Do We Play Games? by Vsauce
 [https://www.youtube.com/watch?v=e5jDspIC4hY](https://www.youtube.com/watch?v=e5jDspIC4hY)
 
-#### Toys vs games vs puzzles vs simulations
+Toys vs games vs puzzles vs simulations
 
 **READ**: My Definition of 'Game' by Chris Crawford
 [http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html](http://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-4/my-definition-of-game.html)
@@ -189,7 +189,7 @@ Negative feedback loops are, predictably, the opposite of positive feedback loop
 
 
 
-#### Dynamic Game Difficulty Balancing
+### Dynamic Game Difficulty Balancing
 
 https://en.wikipedia.org/wiki/Dynamic_game_difficulty_balancing
 
