@@ -5,6 +5,10 @@ Table of Contents:
  - [Games of Chance / Games of Skill](#games-of-chance-vs-games-of-skill)
    - [Solved Games](#solved-games)
  - [Game Balance](#game-balance)
+   - [Fairness](#fairness)
+   - [Handicapping](#handicapping)
+   - [Hidden Information](#hidden-information)
+ - [Feedback Loops](#feedback-loops)
    - [Dynamic Game Difficulty Balancings](#dynamic-game-difficulty-balancing)
  - [Probability](#probability)
    - [Independent Probability - Die Rolls / Coin Flips](#independent-probability---die-rolls--coin-flips)
@@ -89,7 +93,7 @@ Not enough luck could lead to:
 - Solved Games
 - Being out-matched / out of your league / swimming out of your depth
 
-#### Solved Games
+### Solved Games
 
 List of Solved Games
 https://en.wikipedia.org/wiki/Category:Solved_games
@@ -102,11 +106,20 @@ https://en.wikipedia.org/wiki/Category:Solved_games
 **TRY IT >>>** Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
-#### Being out of your league / swimming out of your depth
+### Being out of your league / swimming out of your depth
 
 Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo. You would likely be so out-matched that it would not be a very fun game.
 
 ## Game Balance
+
+A **well balanced** game has multiple paths to victory (strategies, items, options, character choice) and no single path is over-powered.
+
+If one path is always an obvious and better choice, most everyone will use the same path and other aspects of the game suffer. It becomes a game of skill and can become solved.
+
+How Games Get Balanced by Game Maker's Toolkit
+https://www.youtube.com/watch?v=WXQzdXPTb2A
+
+### Fairness
 
 Essential question: Is the game fair?
 
@@ -124,7 +137,9 @@ A game is considered "unfair" if the player has a lack of control of the outcome
 - an imbalance caused by poor game design (for example, if the first player wins 90% of all games)
 - an imbalance caused by a skill gap (being out-matched) or an extreme level of difficulty
 
-Some games of skill try to make the game more fair by addressing skill gaps using handicapping https://en.wikipedia.org/wiki/Handicapping
+### Handicapping
+
+Some games of skill try to make the game more fair by addressing skill gaps using [handicapping](https://en.wikipedia.org/wiki/Handicapping). Handicapping adjusts the difficulty level of the game based on the player's skill level.
 
 Handicapping exists in:
 - Horse racing
@@ -142,11 +157,7 @@ Mario Kart addresses skill gaps this with difficulty level ([50cc/100cc/150cc](h
 Difficulty Level
 https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
-A "well balanced" game has multiple paths to victory (strategies, items, options, character choice) and no single path is over-powered.
 
-If one path is always an obvious and better choice, most everyone will use the same path and other aspects of the game suffer. It becomes a game of skill and can become solved.
-
-How Games Get Balanced by Game Maker's Toolkit https://www.youtube.com/watch?v=WXQzdXPTb2A
 
 ### Hidden Information
 
@@ -261,8 +272,10 @@ Try to predict the probability for ANY 1-12 on two dice (for example, rolling a 
 
 ### Pseudo-Random number generation on computers
 
-Liar's Dice - Probability mixed with Bluffing (see also: Poker)
-https://www.youtube.com/watch?v=SRI_Yvze2ms
+Most of the time, we don't need to produce actually random numbers. They just need to seem random. Sequences of pseudo-random numbers look like sequences of genuinely random numbers and have many of the statistical properties associated with random numbers, but they are actually produced using a deterministic process, that is they follow a set rule, a pattern.
+
+How to Generate Pseudorandom Numbers by PBS Infinite Series
+https://www.youtube.com/watch?v=C82JyCmtKWg
 
 ### Game Theory: Psychology + Games
 
@@ -292,7 +305,8 @@ https://www.youtube.com/watch?v=MHS-htjGgSY
 Psychology of Gaming: Crash Course Games
 https://www.youtube.com/watch?v=MYJBRWT7JGU
 
-
+Liar's Dice - Probability mixed with Bluffing and Hidden Information (see also: Poker)
+https://www.youtube.com/watch?v=SRI_Yvze2ms
 
 ### Infinite Repetition
 Monte Carlo Simulation - repeat a random trial a few thousand/million times
@@ -304,6 +318,8 @@ Coin flip simulator
 http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
 
 ### Markov Chain - probability between states
+
+A Markov Chain is a finite state machine that moves from one state to another according to certain probabilistic rules. Markov Chains can be used to model the probabilities of game states.
 
 botnik.org's Harry Potter and the Portrait of what Looked Like a Large Pile of Ash
 https://www.youtube.com/watch?v=x-uDnlGJRdk
