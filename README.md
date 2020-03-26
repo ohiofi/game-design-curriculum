@@ -9,7 +9,7 @@ Table of Contents:
    - [Handicapping](#handicapping)
    - [Hidden Information](#hidden-information)
  - [Feedback Loops](#feedback-loops)
-   - [Dynamic Game Difficulty Balancings](#dynamic-game-difficulty-balancing)
+   - [Dynamic Game Difficulty Balancing](#dynamic-game-difficulty-balancing)
  - [Probability](#probability)
    - [Independent Probability - Die Rolls / Coin Flips](#independent-probability---die-rolls--coin-flips)
    - [Dependent Probability - Card Draws](#dependent-probability---card-draws)
