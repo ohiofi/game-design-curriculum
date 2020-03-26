@@ -364,10 +364,14 @@ https://medium.com/civis-analytics/the-best-mario-kart-character-according-to-da
 When should we schedule rewards?
 Cookie Clicker and Farmville psychologically manipulate players to keep playing
 
-## Calculating Score
+### Calculating Score
 How can you make the player's score go down with time?
 
-### Discuss: What are some games with multiple victory conditions?
+
+### Multiple Paths to Victory
+
+ Discuss: What are some games with multiple victory conditions?
+ 
 Multiple Paths to Victory
 https://lanepushinggames.com/article/killer-queen-thoughts-on-multiple-victory-conditions
 
