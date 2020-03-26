@@ -163,6 +163,9 @@ https://www.youtube.com/watch?v=R9io0mK-5Ec
 Strategic Uncertainty - Keeping Strategy Games Fresh by Extra Credits
 https://www.youtube.com/watch?v=PJKTDz1zYzs
 
+3 Minute Game Design: Episode 7 - Hidden Information
+https://www.youtube.com/watch?v=UGQ-EZE-NO4
+
 ## Feedback Loops
 
 How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
@@ -171,7 +174,7 @@ One kind of dynamic that is often seen in games and deserves special attention i
 
 Positive Feedback Loops reward players for performing well. It is a reinforcing relationship. Something happens that causes the same thing to happen again, which causes it to happen yet again, getting stronger in each iteration – like a snowball that starts out small at the top of the hill and gets larger and faster as it rolls and collects more snow.
 
-Negative feedback loops are, predictably, the opposite of positive feedback loops in just about every way. A negative feedback loop is a balancing relationship. When something happens in the game (such as one player gaining an advantage over the others), a negative feedback loop makes it harder for that same thing to happen again. If one player gets in the lead, a negative feedback loop makes it easier for the opponents to catch up (and harder for a winning player to extend their lead). In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). Source: https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops
+Negative feedback loops are, predictably, the opposite of positive feedback loops in just about every way. A negative feedback loop is a balancing relationship. When something happens in the game (such as one player gaining an advantage over the others), a negative feedback loop makes it harder for that same thing to happen again. If one player gets in the lead, a negative feedback loop makes it easier for the opponents to catch up (and harder for a winning player to extend their lead). In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). [Source](https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops)
 
 
 
@@ -338,13 +341,15 @@ How can you make the player's score go down with time?
 Multiple Paths to Victory
 https://lanepushinggames.com/article/killer-queen-thoughts-on-multiple-victory-conditions
 
-Multiple victory or loss conditions. For example, a round of Pokémon Trading Card Game can end in three ways:
+Multiple victory or loss conditions. For example, a round of Pokémon Trading Card Game can end in three ways... [Source](https://en.wikipedia.org/wiki/Game_mechanics#Combination_conditions):
 - When one player has Knocked Out enough of the other's Pokémon to draw all his Prize Cards
 - When one player is unable to play a Pokémon from his Bench to replace his Active Pokémon
 - When one player has run out of cards in his Deck and is unable to draw at the beginning of his turn.
-Source: https://en.wikipedia.org/wiki/Game_mechanics#Combination_conditions
 
-Games are finite state machines. There are a set number of game states. The game is not infinite. A finite state machine is hardware or software that moves through a series of modes and can only be in one mode at a time.
+
+Games are finite state machines. There are a set number of game states. The game is not infinite. 
+
+A **finite state machine** is hardware or software that moves through a series of modes and can only be in one mode at a time. A traffic light is a common example of a finite state machine. 
 
 Discuss: Give me an example of a finite state machine (hardware device or software) and describe a few of its states.
 
@@ -362,7 +367,7 @@ https://www.gamasutra.com/blogs/JoshBycer/20150126/234961/Player_Agency_How_Game
 
 Decisions are, in essence, what players do in a game. Remove all decisions and you have a movie or some other linear activity, not a game. As pointed out in Challenges, there are two important exceptions, games which have no decisions at all: some children’s games and some gambling games.
 
-#### Bad Decision Design
+### Bad Decision Design
 
 Source: [https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557](https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557)
 
@@ -370,15 +375,15 @@ Before describing good kinds of decisions, it is worth explaining some common ki
 
 **Meaningless decisions** are perhaps the worst kind: there is a choice to be made, but it has no effect on gameplay. If you can play either of two cards but both cards are identical, that’s not really much of a choice.
 
-**Obvious decisions** at least have an effect on the game, but there is clearly one right answer, so it’s not really much of a choice. Most of the time, the number of dice to roll in the board game RISK falls into this category; if you are attacking with 3 or more armies, you have a “decision” of whether to roll 1, 2, or 3 dice… but your odds are better rolling all 3, so it’s not much of a decision.
+**Obvious decisions** at least have an effect on the game, but there is clearly one right answer, so it’s not really much of a choice. Most of the time, the number of dice to roll in the board game RISK falls into this category; if you are attacking with 3 or more armies, you technically have a "decision" of whether to roll 1, 2, or 3 dice… but your odds are MUCH, MUCH better rolling all 3, so it’s not much of a decision. You roll 3.
 
 **Blind decisions** have an effect on the game, and the answer is not obvious, but there is now an additional problem: the players do not have sufficient knowledge on which to make the decision, so it is essentially random. Playing Rock-Paper-Scissors against a truly random opponent falls into this category; your choice affects the outcome of the game, but you have no way of knowing what to choose.
 
-#### Good Decision Design
+### Good Decision Design
 
 Source: [https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557](https://learn.canvas.net/courses/3/pages/level-6-dot-1-tips-on-decision-making?module_item_id=44557)
 
-Now that we know what makes weak decisions, the easiest answer is “don’t do that!” But we can take it a little further. Generally, interesting decisions involve some kind of tradeoff. That is, you are giving up one thing in exchange for another.
+Now that we know what makes weak decisions, the easiest answer is "don’t do that!" But we can take it a little further. Generally, interesting decisions involve some kind of tradeoff. That is, you are giving up one thing in exchange for another.
 
 **Resource trades**: You give one thing up in exchange for another, where both are valuable. Which is more valuable? This is a value judgment, and the player’s ability to correctly judge or anticipate value is what determines the game’s outcome.
 
@@ -402,17 +407,17 @@ Rule Asymmetry means that some players have different goals, rules, victory cond
 The rules are different for goalies compared to other hockey players, but this does not mean that ice hockey is an asymmetric game. Both teams share the same goals, rules, and victory conditions. It would only be asymmetric if one team were all-time offense and the other team all-time defense.
 
 ### Asymmetric Win Conditions
-Common styles of asymmetric games:
+Common styles of asymmetric games [Source](https://boardgamegeek.com/article/27705805#27705805):
 - social deduction games (hidden loyalty games) such as Werewolf, The Resistance, Two Rooms and a Boom, Spyfall, Saboteur, A Fake Artist Goes to New York, or Battlestar Galactica. In these games, asymmetry is critical because it facilitates deduction of a player's hidden allegiance based on how they act.
 - chase games, such as Scotland Yard, Mr. Jack, Fury of Dracula, or freeze tag. In these games, the primary game activity is inherently asymmetric.
 - one-versus-many games, such as Betrayal at House on the Hill, Descent, Dead of Winter, or Mansions of Madness (first edition), which I suspect are mostly offshoots of tabletop RPGs (such as D&D) and so have inherited the concept of an "adventuring party". You could also look at these as cooperative games where the "game system" has been expanded into an actual player role. Ultimately, I think this model derives from traditional storytelling--their asymmetry results from the fact that one side is "protagonists" and the other is "antagonists".
-Source: https://boardgamegeek.com/article/27705805#27705805
 
-BANG! is also asymmetric:
+
+BANG! is an asymmetric card game [Source](https://boardgamegeek.com/geeklist/24128/item/480422#item480422):
 - Sheriff and Deputies: Win if all outlaws and renegade dead, sheriff still alive.
 - Outlaws: Win if Sheriff dead.
 - Renegade: All players dead but himself. The game ends when the sheriff dies, so the renegade only wins if he kills the sheriff last.
-Source: https://boardgamegeek.com/geeklist/24128/item/480422#item480422
+
 
 Overwatch and Asymmetric Level Design - What Makes the Maps Fun? by Extra Credits
 https://www.youtube.com/watch?v=4DynhzEQtog
@@ -436,7 +441,7 @@ How to Create a Video Game World
 – Create Items for Your World
 – Draw Out the Layout of This World
 
-Source: https://www.emwelsh.com/blog/video-game-world
+[Source](https://www.emwelsh.com/blog/video-game-world)
 
 In Medias Res - Latin for "into the middle of things." Beginning the story with action. For example, "Where's Papa going with that ax?" This is preferable when compared to a boring intro giving the entire backstory.
 https://en.wikipedia.org/wiki/In_medias_res
@@ -475,6 +480,25 @@ https://www.youtube.com/watch?v=Izk-e0WrjP0
 
 Information Density - How Mr. Robot Does a Lot with a Little by Extra Credits
 https://www.youtube.com/watch?v=ghrI2Vb8u2U
+
+### Elegant Game Design
+
+An elegant game is simple (not complex) and clever, yet has depth of play with multiple paths available.
+
+3 Minute Game Design: Episode 4 - Elegance and Depth
+https://www.youtube.com/watch?v=IMsFHCdqjTk
+
+Game Complexity - the mental burden put on the player by the game. This includes information the player has to remember, rules they have to process, and calculations they have to make to make a meaningful choice.
+
+Game Depth - the number of meaningful choices that the player has available. For example, Tic-Tac-Toe is a low depth game because its rules don't create many different possibilities for the player.
+
+Elegant Game Design - is design with a high depth to complexity ratio. Few rules to learn, but many possibilities. For example, the game Go.
+
+Depth vs Complexity - Why More Features Don't Make a Better Game - Extra Credits
+https://www.youtube.com/watch?v=jVL4st0blGU
+
+
+
 
 ## Are Video Games Art?
 
