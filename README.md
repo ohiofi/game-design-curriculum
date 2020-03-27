@@ -457,13 +457,11 @@ Overwatch and Asymmetric Character Design - The Challenge of Varied Playstyles b
 https://www.youtube.com/watch?v=NEpeGSFQ1tM
 
 ## Narrative Writing / World Building
-You should be able to say, "Everything I needed to know about the game, I learned from the first level." The player should be able to infer the basic moves of the game, the mood and feel of the game, the culture of the world, etc.
 
-How Level Design Can Tell a Story by Game Maker's Toolkit
-https://www.youtube.com/watch?v=RwlnCn2EB9o
+How the inventor of Mario designs a game (Level 1 - The Story)
+https://youtu.be/K-NBcP0YUQI?t=58
 
-Tutorials That Don't Talk Down To You - Context Sensitive Design by Extra Credits
-https://www.youtube.com/watch?v=hFdEEzgc7pg
+> Miyamoto based the story on the love triangle in Popeye between a bad guy, a hero, and a damsel in distress. But since Nintendo couldn’t secure the rights to use those characters, Miyamoto replaced them with a gorilla, a carpenter, and his girlfriend. In later games, that carpenter became a plumber. And his named changed, from Mr. Video, to Jumpman, and then to Mario, after this guy, the landlord of a Nintendo warehouse near Seattle.This was one of the first times that a video game’s plot and characters were designed before the programming. That change in approach came at a key time for video games. When Donkey Kong was first released in 1981, the video game market in North America was on the verge of collapse. It was saturated with a lot of different consoles, and the boom in home computers made a lot of people question why they’d want a separate device just to play games. But the storytelling in games like Super Mario Bros. and The Legend of Zelda — which you could only play on Nintendo's own hardware — helped set them apart as best-sellers.
 
 How to Create a Video Game World
 – Determine the Scope of Your World
@@ -485,12 +483,29 @@ Exposition is a two-edged sword. While it is extremely useful for establishing s
 More Than Exposition - Building Worlds without Info Dumps by Extra Credits
 https://www.youtube.com/watch?v=TEERJ1a2rsU
 
+### First Level Design
+
+You should be able to say, "Everything I needed to know about the game, I learned from the first level." The player should be able to infer the basic moves of the game, the mood and feel of the game, the culture of the world, etc.
+
+How the inventor of Mario designs a game (Level 2 - Simplicity)
+https://youtu.be/K-NBcP0YUQI?t=170
+
+> A lot of Miyamoto’s genius can be seen in the first level of Super Mario Bros. — probably the most iconic level in video game history. It’s designed to naturally teach you the game mechanics while you play. If you look at a breakdown, there’s a lot of really subtle design work going on here. Though Mario is usually at the center of the screen, in this first scene he starts at the far left. All the empty space to the right of him gives you a sense of where to go. This character’s look and movement suggest it’s harmful. But don’t worry. If you run into it, you’ll just start the game over without much of a penalty. Next, you see gold blocks with question marks. These are made to look intriguing — and once you hit one, you’re rewarded. That then encourages you to hit the second block, which releases a mushroom. Even if you’re now scared of mushrooms, the positioning of the first obstacle makes it just about guaranteed that you're gonna run into this thing. When you do, Mario gets bigger and stronger. And just like that, you’ve learned all the basic rules in the game without having to read a single word.
+
+How Level Design Can Tell a Story by Game Maker's Toolkit
+https://www.youtube.com/watch?v=RwlnCn2EB9o
+
+Tutorials That Don't Talk Down To You - Context Sensitive Design by Extra Credits
+https://www.youtube.com/watch?v=hFdEEzgc7pg
+
+Teach players the mechanics by "showing" them, not "telling" them.
+
+Half-Life 2's Invisible Tutorial | Teaching Players by Game Maker's Toolkit https://www.youtube.com/watch?v=MMggqenxuZc
+
 ### Show Don't Tell
 
 "Show, Don't Tell" - Advice that narrative writing should show actions, relationships, and feelings instead of just directly telling the reader what happened. Too much exposition is generally considered a bad thing.
 https://en.wikipedia.org/wiki/Show,_don%27t_tell
-
-Teach players the mechanics by "showing" them, not "telling" them. Half-Life 2's Invisible Tutorial | Teaching Players by Game Maker's Toolkit https://www.youtube.com/watch?v=MMggqenxuZc
 
 Mechanics Shaping Story - Re-examining the Core Gameplay Loop by Extra Credits
 https://www.youtube.com/watch?v=f5I6uo39ujQ
@@ -504,7 +519,6 @@ https://youtu.be/8fXE-E1hjKk?t=826
 ### Sometimes Less Is More
 
 "I'd like to go with as little story as possible," he (Shigeru Miyamoto) said. "I've always felt that the Mario games themselves aren't particularly suited to having a very heavy story." The Legend of Zelda games, he feels, should have deep storylines – but not Mario. [Source](https://www.wired.com/2009/06/super-mario-galaxy-2/)
-
 
 Using Narrative as Context - Balancing Gameplay and Story Elements by Extra Credits
 https://www.youtube.com/watch?v=Izk-e0WrjP0
@@ -520,6 +534,8 @@ An elegant game is simple (not complex) and clever, yet has depth of play with m
 https://www.youtube.com/watch?v=IMsFHCdqjTk
 
 Game Complexity - the mental burden put on the player by the game. This includes information the player has to remember, rules they have to process, and calculations they have to make to make a meaningful choice.
+
+BoardGameGeek.com has Complexity ratings for board and card games. Some of [the least complex games](https://boardgamegeek.com/geeksearch.php?action=search&advsearch=1&objecttype=boardgame&q=&include%5Bdesignerid%5D=&geekitemname=&geekitemname=&include%5Bpublisherid%5D=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=&floatrange%5Bavgweight%5D%5Bmax%5D=1.2&range%5Bnumweights%5D%5Bmin%5D=500&colfiltertype=&searchuser=20hz20khz&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&playerrangetype=normal&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=&B1=Submit) include The Game of Life, Yahtzee, and UNO. Some of [the most complex games](https://boardgamegeek.com/search/boardgame?sort=numvoters&advsearch=1&q=&include%5Bdesignerid%5D=&include%5Bpublisherid%5D=&geekitemname=&range%5Byearpublished%5D%5Bmin%5D=&range%5Byearpublished%5D%5Bmax%5D=&range%5Bminage%5D%5Bmax%5D=&range%5Bnumvoters%5D%5Bmin%5D=&range%5Bnumweights%5D%5Bmin%5D=500&range%5Bminplayers%5D%5Bmax%5D=&range%5Bmaxplayers%5D%5Bmin%5D=&range%5Bleastplaytime%5D%5Bmin%5D=&range%5Bplaytime%5D%5Bmax%5D=&floatrange%5Bavgrating%5D%5Bmin%5D=&floatrange%5Bavgrating%5D%5Bmax%5D=&floatrange%5Bavgweight%5D%5Bmin%5D=3&floatrange%5Bavgweight%5D%5Bmax%5D=&colfiltertype=&searchuser=20hz20khz&playerrangetype=normal&B1=Submit) include Magic: The Gathering (1993), Chess (1475), Civilization (1980).
 
 Game Depth - the number of meaningful choices that the player has available. For example, Tic-Tac-Toe is a low depth game because its rules don't create many different possibilities for the player.
 
