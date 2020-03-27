@@ -554,9 +554,9 @@ https://www.youtube.com/watch?v=jVL4st0blGU
 
 ## Immersiveness and Flow
 
-Definition of immersive: providing, involving, or characterized by deep absorption or immersion in something (such as an activity or a real or artificial environment) [Source](https://www.merriam-webster.com/dictionary/immersive)
+> All forms of entertainment strive to create *suspension of disbelief*, a state in which the … mind forgets that it is being subjected to entertainment and instead accepts what it perceives as reality. - François Dominic Laramée; ‘Immersion’
 
-> …when game designers began creating realistic, *immersive* game environments such as World of Warcraft. — Ethan Gilsdorf
+Definition of immersive: providing, involving, or characterized by deep absorption or immersion in something (such as an activity or a real or artificial environment) [Source](https://www.merriam-webster.com/dictionary/immersive)
 
 > The game is incredibly *immersive*, with stunning 3-D graphics and an excellent array of sound effects that bring the Star Trek universe to life. — Newsweek
 
@@ -564,7 +564,6 @@ How the inventor of Mario designs a game (Level 3 - Immersiveness)
 https://youtu.be/K-NBcP0YUQI?t=243
 
 Immersiveness in a video game has a lot to do with the controls — the more precisely you can move your character, the more you feel like you’re part of the story.
-
 
 The Magic Circle - How Games Transport Us to New Worlds - Extra Credits
 https://www.youtube.com/watch?v=qZ-EY9gTsgU
