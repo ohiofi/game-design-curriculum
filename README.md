@@ -30,6 +30,7 @@ Table of Contents:
    - [Show Don't Tell](#show-dont-tell)
    - [Sometimes Less Is More](#sometimes-less-is-more)
    - [Elegant Game Design](#elegant-game-design)
+ - [Immersiveness and Flow](#immersiveness-and-flow)
  - [Are Video Games Art?](#are-video-games-art)
    - [Art-y Games](#art-y-games)
  - [Interactive Art](#interactive-art)
@@ -276,6 +277,9 @@ https://www.youtube.com/watch?v=4Lb-6rxZxx0
 
 Try to predict the probability for ANY 1-12 on two dice (for example, rolling a 1 and a 2 counts as rolling 1, 2, AND 3)
 
+Liar's Dice - Probability mixed with Bluffing and Hidden Information (see also: Poker)
+https://www.youtube.com/watch?v=SRI_Yvze2ms
+
 ### Pseudo-Random number generation on computers
 
 Most of the time, we don't need to produce actually random numbers. They just need to seem random. Sequences of pseudo-random numbers look like sequences of genuinely random numbers and have many of the statistical properties associated with random numbers, but they are actually produced using a deterministic process, that is they follow a set rule, a pattern.
@@ -313,8 +317,9 @@ https://www.youtube.com/watch?v=MHS-htjGgSY
 Psychology of Gaming: Crash Course Games
 https://www.youtube.com/watch?v=MYJBRWT7JGU
 
-Liar's Dice - Probability mixed with Bluffing and Hidden Information (see also: Poker)
-https://www.youtube.com/watch?v=SRI_Yvze2ms
+7 ways games use psychology to control you
+https://www.youtube.com/watch?v=A2gIE5gyA6s
+
 
 ### Infinite Repetition
 Monte Carlo Simulation - repeat a random trial a few thousand/million times
@@ -518,10 +523,12 @@ https://youtu.be/8fXE-E1hjKk?t=826
 
 ### Sometimes Less Is More
 
-"I'd like to go with as little story as possible," he (Shigeru Miyamoto) said. "I've always felt that the Mario games themselves aren't particularly suited to having a very heavy story." The Legend of Zelda games, he feels, should have deep storylines – but not Mario. [Source](https://www.wired.com/2009/06/super-mario-galaxy-2/)
+> "I'd like to go with as little story as possible," he (Shigeru Miyamoto) said. "I've always felt that the Mario games themselves aren't particularly suited to having a very heavy story." The Legend of Zelda games, he feels, should have deep storylines – but not Mario. [Source](https://www.wired.com/2009/06/super-mario-galaxy-2/)
 
 Using Narrative as Context - Balancing Gameplay and Story Elements by Extra Credits
 https://www.youtube.com/watch?v=Izk-e0WrjP0
+
+> 	"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away" - Antoine de Saint-Exupéry
 
 Information Density - How Mr. Robot Does a Lot with a Little by Extra Credits
 https://www.youtube.com/watch?v=ghrI2Vb8u2U
@@ -545,7 +552,22 @@ Depth vs Complexity - Why More Features Don't Make a Better Game - Extra Credits
 https://www.youtube.com/watch?v=jVL4st0blGU
 
 
+## Immersiveness and Flow
 
+Definition of immersive: providing, involving, or characterized by deep absorption or immersion in something (such as an activity or a real or artificial environment) [Source](https://www.merriam-webster.com/dictionary/immersive)
+
+> …when game designers began creating realistic, *immersive* game environments such as World of Warcraft. — Ethan Gilsdorf
+
+> The game is incredibly *immersive*, with stunning 3-D graphics and an excellent array of sound effects that bring the Star Trek universe to life. — Newsweek
+
+How the inventor of Mario designs a game (Level 3 - Immersiveness)
+https://youtu.be/K-NBcP0YUQI?t=243
+
+Immersiveness in a video game has a lot to do with the controls — the more precisely you can move your character, the more you feel like you’re part of the story.
+
+
+The Magic Circle - How Games Transport Us to New Worlds - Extra Credits
+https://www.youtube.com/watch?v=qZ-EY9gTsgU
 
 ## Are Video Games Art?
 
