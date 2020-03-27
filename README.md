@@ -554,7 +554,7 @@ https://www.youtube.com/watch?v=jVL4st0blGU
 
 ## Immersiveness and Flow
 
-> All forms of entertainment strive to create *suspension of disbelief*, a state in which the … mind forgets that it is being subjected to entertainment and instead accepts what it perceives as reality. - François Dominic Laramée; ‘Immersion’
+> All forms of entertainment strive to create *suspension of disbelief*, a state in which the … mind forgets that it is being subjected to entertainment and instead accepts what it perceives as reality. — François Dominic Laramée; ‘Immersion’
 
 Definition of immersive: providing, involving, or characterized by deep absorption or immersion in something (such as an activity or a real or artificial environment) [Source](https://www.merriam-webster.com/dictionary/immersive)
 
@@ -575,8 +575,7 @@ Roger Ebert "Video games can never be art"
 [https://www.eurogamer.net/articles/news301105ebert](https://www.eurogamer.net/articles/news301105ebert)
 
 
-"I am prepared to believe that video games can be elegant, subtle, sophisticated, challenging and visually wonderful. But I believe the nature of the medium prevents it from moving beyond craftsmanship to the stature of art. To my knowledge, no one in or out of the field has ever been able to cite a game worthy of comparison with the great dramatists, poets, filmmakers, novelists and composers. That a game can aspire to artistic importance as a visual experience, I accept. But for most gamers, video games represent a loss of those precious hours we have available to make ourselves more cultured, civilized and empathetic."
- - Roger Ebert [Source](https://www.rogerebert.com/answer-man/why-did-the-chicken-cross-the-genders)
+> "I am prepared to believe that video games can be elegant, subtle, sophisticated, challenging and visually wonderful. But I believe the nature of the medium prevents it from moving beyond craftsmanship to the stature of art. To my knowledge, no one in or out of the field has ever been able to cite a game worthy of comparison with the great dramatists, poets, filmmakers, novelists and composers. That a game can aspire to artistic importance as a visual experience, I accept. But for most gamers, video games represent a loss of those precious hours we have available to make ourselves more cultured, civilized and empathetic." — Roger Ebert [Source](https://www.rogerebert.com/answer-man/why-did-the-chicken-cross-the-genders)
 
 
 
