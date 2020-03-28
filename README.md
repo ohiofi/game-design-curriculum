@@ -168,12 +168,12 @@ https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
 ### Hidden Information
 
-Analysis paralysis is a problem in which a player is constantly pausing to think about strategy. The game loses it's flow and slows down.
+Analysis paralysis is a problem in which a player is constantly pausing to think about strategy. The game loses its flow and slows down.
 
 Choice Paralysis - Too Much of a Good Thing by Extra Credits
 https://www.youtube.com/watch?v=_2LKrwiGFFs
 
-Games need to be complex enough that they won't be solved, but simple enough that they are learnable. We can't give the player 0% of the information that they need to win (a completely random game) and we can't give them 100% of the infomation (a solved game).
+Games need to be complex enough that they won't be solved, but simple enough that they are learnable. We can't give the player 0% of the information that they need to win (a completely random game) and we can't give them 100% of the information (a solved game).
 
 3 Minute Game Design: Episode 3 - How Games Work
 https://www.youtube.com/watch?v=R9io0mK-5Ec
