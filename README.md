@@ -184,6 +184,13 @@ https://www.youtube.com/watch?v=PJKTDz1zYzs
 3 Minute Game Design: Episode 7 - Hidden Information
 https://www.youtube.com/watch?v=UGQ-EZE-NO4
 
+In most games, players do not possess full information. Some players possess private information (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
+
+The opposite is **perfect information**: Both players see all the game states and decisions. Each decision is made sequentially. Chess is an example of a game with perfect information.
+
+https://en.wikipedia.org/wiki/Perfect_information
+
+
 ## Feedback Loops
 
 How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
