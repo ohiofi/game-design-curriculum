@@ -186,6 +186,12 @@ https://www.youtube.com/watch?v=UGQ-EZE-NO4
 
 In most games, players do not possess full information. Some players possess private information (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
 
+Imagine two options:
+ 1. The key is always behind door #3
+ 2. We randomly place the key behind door #1, #2, or #3
+ 
+Option 1 is interesting the first time, but it is an obvious, boring choice on subsequent plays. Option 2 is always interesting.
+
 The opposite is **perfect information**: Both players see all the game states and decisions. Each decision is made sequentially. Chess is an example of a game with perfect information.
 
 https://en.wikipedia.org/wiki/Perfect_information
