@@ -168,15 +168,15 @@ https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
 ### Hidden Information
 
-Analysis paralysis is a problem in which a player is constantly pausing to think about strategy. The game loses its flow and slows down.
+**Analysis paralysis** is a problem in which a player is constantly pausing to think about strategy. The game loses its flow and slows down.
 
 Choice Paralysis - Too Much of a Good Thing by Extra Credits
 https://www.youtube.com/watch?v=_2LKrwiGFFs
 
-Games need to be complex enough that they won't be solved, but simple enough that they are learnable. We can't give the player 0% of the information that they need to win (a completely random game) and we can't give them 100% of the information (a solved game).
 
-3 Minute Game Design: Episode 3 - How Games Work
-https://www.youtube.com/watch?v=R9io0mK-5Ec
+Too many strategy games are over hours before you actually win the game. Once you build up enough of a lead, you have the resources you need to respond to all the game's minor challenges. The key to fixing this problem is **uncertainty**: hidden information or unexpected events that make you change your plans and keep the game dynamic.
+
+**Uncertainty** forces you to plan for contingencies and to rethink your strategy because that's what we play strategy games for. Uncertainty comes in lots of forms and randomness can be one of them but more often uncertainty comes in the form of hidden information, unexpected events or even simply playing against a player who might make some unpredictable move that will force you to reconsider your strategy.
 
 Strategic Uncertainty - Keeping Strategy Games Fresh by Extra Credits
 https://www.youtube.com/watch?v=PJKTDz1zYzs
@@ -184,17 +184,25 @@ https://www.youtube.com/watch?v=PJKTDz1zYzs
 3 Minute Game Design: Episode 7 - Hidden Information
 https://www.youtube.com/watch?v=UGQ-EZE-NO4
 
-In most games, players do not possess full information. Some players possess private information (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
+
+
+In most games, players do not possess full information. Some players possess **private information** (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
 
 Imagine two options:
  1. The key is always behind door #3
  2. We randomly place the key behind door #1, #2, or #3
- 
+
 Option 1 is interesting the first time, but it is an obvious, boring choice on subsequent plays. Option 2 is always interesting.
 
 The opposite is **perfect information**: Both players see all the game states and decisions. Each decision is made sequentially. Chess is an example of a game with perfect information.
 
 https://en.wikipedia.org/wiki/Perfect_information
+
+
+Games need to be complex enough that they won't be solved, but simple enough that they are learnable. We can't give the player 0% of the information that they need to win (a completely random game) and we can't give them 100% of the information (a solved game).
+
+3 Minute Game Design: Episode 3 - How Games Work
+https://www.youtube.com/watch?v=R9io0mK-5Ec
 
 
 ## Feedback Loops
@@ -347,9 +355,9 @@ http://digfir-published.macmillanusa.com/stats_applet/stats_applet_10_prob.html
 
 A Markov Chain is a finite state machine that moves from one state to another according to certain probabilistic rules. Markov Chains can be used to model the probabilities of game states.
 
-Games are finite state machines. There are a set number of game states. The game is not infinite. 
+Games are finite state machines. There are a set number of game states. The game is not infinite.
 
-A **finite state machine** is hardware or software that moves through a series of modes and can only be in one mode at a time. A traffic light is a common example of a finite state machine. 
+A **finite state machine** is hardware or software that moves through a series of modes and can only be in one mode at a time. A traffic light is a common example of a finite state machine.
 
 Discuss: Give me an example of a finite state machine (hardware device or software) and describe a few of its states.
 
@@ -389,7 +397,7 @@ How can you make the player's score go down with time?
 ### Multiple Paths to Victory
 
  Discuss: What are some games with multiple victory conditions?
- 
+
 Multiple Paths to Victory
 https://lanepushinggames.com/article/killer-queen-thoughts-on-multiple-victory-conditions
 
