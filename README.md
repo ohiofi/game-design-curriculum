@@ -220,7 +220,16 @@ There are two types of feedback loops, positive feedback loops and negative feed
 
 A good example is the kill streak system in the Call of Duty games, especially the earlier titles like Modern Warfare. In those games, getting a handful of kills in a single life grants you special “kill streak” bonuses, which might mean putting enemy locations on your radar, or allowing you to call in an airstrike or an attack helicopter. Which ultimately means that those who are already doing well by racking up kills, are rewarded with the tools to do even better. The rich get richer and the poor get poorer. [Source](https://www.youtube.com/watch?v=H4kbJObhcHw)
 
-Too much positive feedback can be a problem. A **runaway winner** is a situation in which veteran players are constantly getting more resources/health/strength so that they become less and less likely to lose/die and become powerful steam rollers - which isn’t always that much fun. The game is easiest for whoever's in the lead, so they tend to get further and further in the lead. Players don’t like suffering through a game with no chance of catching the lead player. There is not enough uncertainty.
+Too much positive feedback can be a problem. A **runaway leader** is a situation in which veteran players are constantly getting more resources/health/strength so that they become less and less likely to lose/die and become powerful steam rollers - which isn’t always that much fun. The game is easiest for whoever's in the lead, so they tend to get further and further in the lead. Players don’t like suffering through a game with no chance of catching the lead player. There is not enough uncertainty.
+
+The runaway leader is one of the main problems with Monopoly and why so many people hate it:
+- https://www.buzzfeed.com/tomchivers/monopoly-sucks
+- https://www.businessinsider.com/why-monopoly-is-not-a-fun-game-2017-9
+- https://www.fatherly.com/love-money/monopoly-board-game-sucks/
+- https://slate.com/human-interest/2018/11/worst-family-games-monopoly-risk-candy-land.html
+- https://www.stuff.co.nz/entertainment/games/114645374/why-monopoly-is-the-worst-game-in-the-world
+- https://www.bbc.com/future/article/20200219-why-monopoly-is-such-a-bad-game
+- https://nationalpost.com/life/if-we-all-know-how-bad-monopoly-is-why-do-we-continue-to-play-and-keep-it-on-the-pedestal-of-board-games
 
 **Negative feedback** loops are, predictably, the opposite of positive feedback loops in just about every way. A negative feedback loop is a balancing relationship. When something happens in the game (such as one player gaining an advantage over the others), a negative feedback loop makes it harder for that same thing to happen again. If one player gets in the lead, a negative feedback loop makes it easier for the opponents to catch up (and harder for a winning player to extend their lead). In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). [Source](https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops)
 
