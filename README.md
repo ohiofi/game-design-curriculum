@@ -207,17 +207,26 @@ https://www.youtube.com/watch?v=R9io0mK-5Ec
 
 ## Feedback Loops
 
+**Feedback loops** are systems where the output is fed back into the system as an input. In game design, this typically means that a player’s success or failure impacts the likelihood of future successes and failures.
+
 How Games Use Feedback Loops by Game Maker’s Toolkit
 https://www.youtube.com/watch?v=H4kbJObhcHw
 
-Backup video here: [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
+[Backup copy of video here](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
 
-One kind of dynamic that is often seen in games and deserves special attention is known as the feedback loop. There are two types, positive feedback loops and negative feedback loops. These terms are borrowed from other fields such as control systems and biology, and they mean the same thing in games that they mean elsewhere.
+There are two types of feedback loops, positive feedback loops and negative feedback loops. These terms are borrowed from other fields such as control systems and biology, and they mean the same thing in games that they mean elsewhere.
 
-Positive Feedback Loops reward players for performing well. It is a reinforcing relationship. Something happens that causes the same thing to happen again, which causes it to happen yet again, getting stronger in each iteration – like a snowball that starts out small at the top of the hill and gets larger and faster as it rolls and collects more snow.
+**Positive Feedback Loops** reward players for performing well. It is a reinforcing relationship. Something happens that causes the same thing to happen again, which causes it to happen yet again, getting stronger in each iteration – like a snowball that starts out small at the top of the hill and gets larger and faster as it rolls and collects more snow. [Source](https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops)
 
-Negative feedback loops are, predictably, the opposite of positive feedback loops in just about every way. A negative feedback loop is a balancing relationship. When something happens in the game (such as one player gaining an advantage over the others), a negative feedback loop makes it harder for that same thing to happen again. If one player gets in the lead, a negative feedback loop makes it easier for the opponents to catch up (and harder for a winning player to extend their lead). In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). [Source](https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops)
+A good example is the kill streak system in the Call of Duty games, especially the earlier titles like Modern Warfare. In those games, getting a handful of kills in a single life grants you special “kill streak” bonuses, which might mean putting enemy locations on your radar, or allowing you to call in an airstrike or an attack helicopter. Which ultimately means that those who are already doing well by racking up kills, are rewarded with the tools to do even better. The rich get richer and the poor get poorer. [Source](https://www.youtube.com/watch?v=H4kbJObhcHw)
 
+Too much positive feedback can be a problem. A **runaway winner** is a situation in which veteran players are constantly getting more resources/health/strength so that they become less and less likely to lose/die and become powerful steam rollers - which isn’t always that much fun. The game is easiest for whoever's in the lead, so they tend to get further and further in the lead. Players don’t like suffering through a game with no chance of catching the lead player. There is not enough uncertainty.
+
+**Negative feedback** loops are, predictably, the opposite of positive feedback loops in just about every way. A negative feedback loop is a balancing relationship. When something happens in the game (such as one player gaining an advantage over the others), a negative feedback loop makes it harder for that same thing to happen again. If one player gets in the lead, a negative feedback loop makes it easier for the opponents to catch up (and harder for a winning player to extend their lead). In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). [Source](https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops)
+
+There is one example everyone always uses when talking about negative feedback loops (but that’s just because it’s the perfect one)... the item distribution in Mario Kart. Players who manage to get to the front of the pack will find themselves getting rather weak items like green shells and banana peels. But those who are at the back of the crowd are handed really powerful weaponry like the bullet bill, the golden mushroom, and - of course - the infamous blue shell which specifically targets the person in first place. So winners are punished, and losers are rewarded.
+
+Negative feedback loops can be great for party games where everyone should have a good time, and they create an interesting ebb and flow of comebacks and turnarounds which leads to good drama. But both need to be balanced carefully - positive loops are frustrating for weaker players who get stuck in a death spiral, or struggle to catch up to a runaway winner. And negative feedback loops feel unfair to successful players, who constantly have their victories get taken away. [Source](https://www.youtube.com/watch?v=H4kbJObhcHw)
 
 
 ### Dynamic Game Difficulty Balancing
