@@ -207,7 +207,10 @@ https://www.youtube.com/watch?v=R9io0mK-5Ec
 
 ## Feedback Loops
 
-How Games Use Feedback Loops by Game Maker’s Toolkit [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
+How Games Use Feedback Loops by Game Maker’s Toolkit
+https://www.youtube.com/watch?v=H4kbJObhcHw
+
+Backup video here: [https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg](https://drive.google.com/open?id=15zZaQHpK1rmnYvJAOOy-b8TyxCgpWhmg)
 
 One kind of dynamic that is often seen in games and deserves special attention is known as the feedback loop. There are two types, positive feedback loops and negative feedback loops. These terms are borrowed from other fields such as control systems and biology, and they mean the same thing in games that they mean elsewhere.
 
