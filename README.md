@@ -38,6 +38,29 @@ Table of Contents:
 
 ## What Is a Game?
 
+Is this a game?
+
+ |          |          |          |
+ | -------- | -------- | -------- |
+ | Magic Eye image | Rubiks Cube | Where’s Waldo? | 
+ | Lift-the-Flap Book | Slinky | Magic 8-ball | Escape Room | 
+ | Jump rope | 2 Truths and 1 Lie | Ring Toss | 
+ | Marbles | Cookie Clicker | Webkinz | 
+ | Fidget Spinner | Word Search | Hopscotch | 
+ | Musical chairs | Bottle Flipping | Coloring book | 
+ | Skateboard | 20 Questions | Bop-it | 
+ | FarmVille | Lego set | Nerf Gun | 
+ | Wooden cup and ball on a stick | Pop-up Book | Tamagotchi (Virtual Pet) | 
+ | Bouncy Ball | Laser Tag | Fantasy Football | 
+ | Bobbing for Apples | Geocaching | Furby | 
+ | Choose Yr Own Adventure book | Electronic Simon | Pinball | 
+ | Beyblades | Sudoku | Yo-yo | 
+ | Mad Libs | The Sims or SimCity | Pin the tail on the donkey | 
+ | Quadcopter | Crossword | Hula Hoop | 
+
+
+
+
 What is a Game?: Crash Course Games
 [https://www.youtube.com/watch?v=QPqR2wOs8WI](https://www.youtube.com/watch?v=QPqR2wOs8WI)
 
