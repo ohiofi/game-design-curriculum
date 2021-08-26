@@ -38,12 +38,12 @@ Table of Contents:
 
 ## What Is a Game?
 
-Is this a game?
+Is this a game? If not, what is it?
 
  |          |          |          |
  | -------- | -------- | -------- |
  | Magic Eye image | Rubiks Cube | Where’s Waldo? | 
- | Lift-the-Flap Book | Slinky | Magic 8-ball | Escape Room | 
+ | Lift-the-Flap Book | Slinky | Magic 8-ball |
  | Jump rope | 2 Truths and 1 Lie | Ring Toss | 
  | Marbles | Cookie Clicker | Webkinz | 
  | Fidget Spinner | Word Search | Hopscotch | 
@@ -56,7 +56,7 @@ Is this a game?
  | Choose Yr Own Adventure book | Electronic Simon | Pinball | 
  | Beyblades | Sudoku | Yo-yo | 
  | Mad Libs | The Sims or SimCity | Pin the tail on the donkey | 
- | Quadcopter | Crossword | Hula Hoop | 
+ | Escape Room | Crossword | Hula Hoop | 
 
 
 
