@@ -57,6 +57,7 @@ Is this a game? If not, what is it?
  | Beyblades | Sudoku | Yo-yo | 
  | Mad Libs | The Sims or SimCity | Pin the tail on the donkey | 
  | Escape Room | Crossword | Hula Hoop | 
+ | Riddle | Pinball | Solitaire |
 
 
 
