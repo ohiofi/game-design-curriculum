@@ -59,7 +59,7 @@ Is this a game? If not, what is it?
  | Mad Libs | The Sims or SimCity | Pin the tail on the donkey | 
  | Escape Room | Crossword | Hula Hoop | 
  | Riddle | Pinball | Solitaire |
- |  | I Spy | Duolingo |
+ | Don't step on a crack | I Spy | Duolingo |
  
 
 
