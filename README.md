@@ -45,12 +45,13 @@ Is this a game? If not, what is it?
  | Magic Eye image | Rubiks Cube | Where’s Waldo? | 
  | Lift-the-Flap Book | Slinky | Magic 8-ball |
  | Jump rope | 2 Truths and 1 Lie | Ring Toss | 
- | Marbles | Cookie Clicker | Webkinz | 
+ | Marbles | Cookie Clicker | Webkinz/Tamagotchi/Virtual Pet | 
  | Fidget Spinner | Word Search | Hopscotch | 
+ | Fishing | Skipping rocks | Spelling Bee |
  | Musical chairs | Bottle Flipping | Coloring book | 
  | Skateboard | 20 Questions | Bop-it | 
  | FarmVille | Lego set | Nerf Gun | 
- | Wooden cup and ball on a stick | Pop-up Book | Tamagotchi (Virtual Pet) | 
+ | Wooden cup and ball on a stick | Pop-up Book | Don't let the balloon touch the ground | 
  | Bouncy Ball | Laser Tag | Fantasy Football | 
  | Bobbing for Apples | Geocaching | Furby | 
  | Choose Yr Own Adventure book | Electronic Simon | Pinball | 
@@ -58,7 +59,8 @@ Is this a game? If not, what is it?
  | Mad Libs | The Sims or SimCity | Pin the tail on the donkey | 
  | Escape Room | Crossword | Hula Hoop | 
  | Riddle | Pinball | Solitaire |
- | Don't let the balloon touch the ground | I Spy | Duolingo |
+ |  | I Spy | Duolingo |
+ 
 
 
 
