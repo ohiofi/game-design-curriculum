@@ -69,9 +69,6 @@ Is this a game? If not, what is it?
 What is a Game?: Crash Course Games
 [https://www.youtube.com/watch?v=QPqR2wOs8WI](https://www.youtube.com/watch?v=QPqR2wOs8WI)
 
-Why Do We Play Games? by Vsauce
-[https://www.youtube.com/watch?v=e5jDspIC4hY](https://www.youtube.com/watch?v=e5jDspIC4hY)
-
 Toys vs games vs puzzles vs simulations
 
 **READ**: My Definition of 'Game' by Chris Crawford
@@ -94,6 +91,11 @@ https://www.youtube.com/watch?v=MgyVwFRrzcU
 
 Cow Clicker by Ian Bogost
 [http://bogost.com/games/cow_clicker/](http://bogost.com/games/cow_clicker/) - an experiment and deconstructive satire of social games by a Georgia Tech professor
+
+## Why Do Humans Play Games?
+
+Why Do We Play Games? by Vsauce
+[https://www.youtube.com/watch?v=e5jDspIC4hY](https://www.youtube.com/watch?v=e5jDspIC4hY)
 
 BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
