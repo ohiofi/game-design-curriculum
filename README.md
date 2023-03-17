@@ -8,6 +8,7 @@ Table of Contents:
    - [Fairness](#fairness)
    - [Handicapping](#handicapping)
    - [Hidden Information](#hidden-information)
+   - [Private Information](#private-information)
  - [Feedback Loops](#feedback-loops)
    - [Dynamic Game Difficulty Balancing](#dynamic-game-difficulty-balancing)
  - [Probability](#probability)
@@ -214,7 +215,7 @@ https://www.youtube.com/watch?v=PJKTDz1zYzs
 3 Minute Game Design: Episode 7 - Hidden Information
 https://www.youtube.com/watch?v=UGQ-EZE-NO4
 
-
+### Private Information
 
 In most games, players do not possess full information. Some players possess **private information** (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
 
@@ -297,6 +298,8 @@ Left 4 Dead has an AI Director system "...which dynamically adjusts the game’s
 "...in Max Payne the game dynamically adjusts the strength of enemies and can also provide different levels of aiming assistance for players" [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
 
 ## Probability
+
+### Input Randomness vs Output Randomness
 
 Randomness provides variety. It is better to generate something random and allow the player to respond to it, rather than make a player's action random.
 
