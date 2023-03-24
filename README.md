@@ -204,10 +204,7 @@ https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 Choice Paralysis - Too Much of a Good Thing by Extra Credits
 https://www.youtube.com/watch?v=_2LKrwiGFFs
 
-THE PARADOX OF CHOICE BY BARRY SCHWARTZ - ANIMATED BOOK SUMMARY
-https://www.youtube.com/watch?v=Lf6tpwDKiHM
-
-The paradox of choice is the idea that having more options to choose from is not always better. Humans are less happy if there are too many options.
+The paradox of choice is the idea that having more options to choose from is not always better. After making a choice, humans are less happy with their decision if there were too many options.
 
 Too many strategy games are over hours before you actually win the game. Once you build up enough of a lead, you have the resources you need to respond to all the game's minor challenges. The key to fixing this problem is **uncertainty**: hidden information or unexpected events that make you change your plans and keep the game dynamic.
 
