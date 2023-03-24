@@ -197,7 +197,12 @@ https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
 
 
-### Hidden Information
+### Perfect Information
+
+A game that has perfect information is one in which all players are perfectly informed of everything that happened
+up to the moment they play. Players can see the entire game state. There could be some random moves, but all players are able to see the result.
+
+Chess is an example of a game with perfect information. Chess also has LOTS of possible moves (especially early in the game).
 
 **Analysis paralysis** is a problem in which a player is constantly pausing to think about strategy. The game loses its flow and slows down.
 
@@ -205,6 +210,8 @@ Choice Paralysis - Too Much of a Good Thing by Extra Credits
 https://www.youtube.com/watch?v=_2LKrwiGFFs
 
 The paradox of choice is the idea that having more options to choose from is not always better. After making a choice, humans are less happy with their decision if there were too many options.
+
+### Hidden Information
 
 Too many strategy games are over hours before you actually win the game. Once you build up enough of a lead, you have the resources you need to respond to all the game's minor challenges. The key to fixing this problem is **uncertainty**: hidden information or unexpected events that make you change your plans and keep the game dynamic.
 
