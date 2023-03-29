@@ -7,6 +7,7 @@ Table of Contents:
  - [Game Balance](#game-balance)
    - [Fairness](#fairness)
    - [Handicapping](#handicapping)
+   - [Perfect Information](#perfect-information)
    - [Hidden Information](#hidden-information)
    - [Private Information](#private-information)
  - [Feedback Loops](#feedback-loops)
@@ -202,6 +203,8 @@ https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 A game that has perfect information is one in which all players are perfectly informed of everything that happened
 up to the moment they play. Players can see the entire game state. There could be some random moves, but all players are able to see the result.
 
+https://en.wikipedia.org/wiki/Perfect_information
+
 Chess is an example of a game with perfect information. Chess also has LOTS of possible moves (especially early in the game).
 
 **Analysis paralysis** is a problem in which a player is constantly pausing to think about strategy. The game loses its flow and slows down.
@@ -223,25 +226,20 @@ https://www.youtube.com/watch?v=PJKTDz1zYzs
 3 Minute Game Design: Episode 7 - Hidden Information
 https://www.youtube.com/watch?v=UGQ-EZE-NO4
 
-### Private Information
-
-In most games, players do not possess full information. Some players possess **private information** (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
-
 Imagine two options:
  1. The key is always behind door #3
  2. We randomly place the key behind door #1, #2, or #3
 
-Option 1 is interesting the first time, but it is an obvious, boring choice on subsequent plays. Option 2 is always interesting.
-
-The opposite is **perfect information**: Both players see all the game states and decisions. Each decision is made sequentially. Chess is an example of a game with perfect information.
-
-https://en.wikipedia.org/wiki/Perfect_information
-
+Option 1 is interesting the first time, but it is an obvious, boring choice on subsequent plays. Option 2 (hidden information) is always more interesting. The opposite is **perfect information**: Both players see all the game states and decisions. Each decision is made sequentially. Chess is an example of a game with perfect information.
 
 Games need to be complex enough that they won't be solved, but simple enough that they are learnable. We can't give the player 0% of the information that they need to win (a completely random game) and we can't give them 100% of the information (a solved game).
 
 3 Minute Game Design: Episode 3 - How Games Work
 https://www.youtube.com/watch?v=R9io0mK-5Ec
+
+### Private Information
+
+In most games, players do not possess full information. Some players possess **private information** (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
 
 
 ## Feedback Loops
