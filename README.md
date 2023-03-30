@@ -246,6 +246,9 @@ In most games, players do not possess full information. Some players possess **p
 
 **Feedback loops** are systems where the output is fed back into the system as an input. In game design, this typically means that a player’s success or failure impacts the likelihood of future successes and failures.
 
+What feedback do players get in the game Eleusis? How does the feedback change the state of the game?
+[https://www.youtube.com/watch?v=KjXXLCQS48E](https://www.youtube.com/watch?v=KjXXLCQS48E)
+
 How Games Use Feedback Loops by Game Maker’s Toolkit
 https://www.youtube.com/watch?v=H4kbJObhcHw
 
