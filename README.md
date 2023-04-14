@@ -13,6 +13,7 @@ Table of Contents:
    - [Hidden Information](#hidden-information)
    - [Private Information](#private-information)
  - [Feedback Loops](#feedback-loops)
+   - [Runaway Leader](#runaway-leader)
    - [Dynamic Game Difficulty Balancing](#dynamic-game-difficulty-balancing)
  - [Probability](#probability)
    - [Independent Probability - Die Rolls / Coin Flips](#independent-probability---die-rolls--coin-flips)
@@ -277,6 +278,8 @@ The runaway leader is one of the main problems with Monopoly and why so many peo
 - https://www.stuff.co.nz/entertainment/games/114645374/why-monopoly-is-the-worst-game-in-the-world
 - https://www.bbc.com/future/article/20200219-why-monopoly-is-such-a-bad-game
 - https://nationalpost.com/life/if-we-all-know-how-bad-monopoly-is-why-do-we-continue-to-play-and-keep-it-on-the-pedestal-of-board-games
+
+### Negative Feedback Loops
 
 **Negative feedback** loops are, predictably, the opposite of positive feedback loops in just about every way. A negative feedback loop is a balancing relationship. When something happens in the game (such as one player gaining an advantage over the others), a negative feedback loop makes it harder for that same thing to happen again. If one player gets in the lead, a negative feedback loop makes it easier for the opponents to catch up (and harder for a winning player to extend their lead). In racing games, play is more interesting if the player is in the middle of a pack of cars rather than if they are way out in front or lagging way behind on their own (after all, there is more interaction if your opponents are close by). [Source](https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops)
 
