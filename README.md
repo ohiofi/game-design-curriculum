@@ -2,8 +2,10 @@
 
 Table of Contents:
  - [What is a Game?](#what-is-a-game)
+ - [Why Do Humans Play Games?](#why-do-humans-play-games)
  - [Games of Chance / Games of Skill](#games-of-chance-vs-games-of-skill)
    - [Solved Games](#solved-games)
+   - [Being out of your league / swimming out of your depth](#being-out-of-your-league--swimming-out-of-your-depth)
  - [Game Balance](#game-balance)
    - [Fairness](#fairness)
    - [Handicapping](#handicapping)
@@ -161,6 +163,9 @@ https://www.youtube.com/watch?v=WXQzdXPTb2A
 ### Fairness
 
 Essential question: Is the game fair?
+
+THIS GAME IS RIGGED (Mario Party Superstars)
+https://www.youtube.com/watch?v=ugd5U9e-Fh0
 
 This game is not fair | Trap adventures 2
 https://www.youtube.com/watch?v=l7JoFDOU7YA
