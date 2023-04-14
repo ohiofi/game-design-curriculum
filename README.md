@@ -34,14 +34,18 @@ Table of Contents:
  - [Rule Symmetry/Asymmetry](#rule-symmetryasymmetry)
    - [Asymmetric Win Conditions](#asymmetric-win-conditions)
  - [Narrative Writing / World Building](#narrative-writing--world-building)
+   - [First Level Design](#first-level-design)
    - [Show Don't Tell](#show-dont-tell)
    - [Sometimes Less Is More](#sometimes-less-is-more)
    - [Elegant Game Design](#elegant-game-design)
  - [Immersiveness and Flow](#immersiveness-and-flow)
  - [Are Video Games Art?](#are-video-games-art)
    - [Art-y Games](#art-y-games)
+   - [Arcane Kids](#arcane-kids)
  - [Interactive Art](#interactive-art)
  - [Serious Games / Games For Change](#serious-games--games-for-change)
+   - [Nicky Case](#nicky-case) 
+ - [Recommended YouTube channels for additional information](#recommended-youtube-channels-for-additional-information)
 
 ## What Is a Game?
 
