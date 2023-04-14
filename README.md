@@ -260,6 +260,8 @@ There are two types of feedback loops, positive feedback loops and negative feed
 
 A good example is the kill streak system in the Call of Duty games, especially the earlier titles like Modern Warfare. In those games, getting a handful of kills in a single life grants you special “kill streak” bonuses, which might mean putting enemy locations on your radar, or allowing you to call in an airstrike or an attack helicopter. Which ultimately means that those who are already doing well by racking up kills, are rewarded with the tools to do even better. The rich get richer and the poor get poorer. [Source](https://www.youtube.com/watch?v=H4kbJObhcHw)
 
+### Runaway Leader
+
 Too much positive feedback can be a problem. A **runaway leader** is a situation in which veteran players are constantly getting more resources/health/strength so that they become less and less likely to lose/die and become powerful steam rollers - which isn’t always that much fun. The game is easiest for whoever's in the lead, so they tend to get further and further in the lead. Players don’t like suffering through a game with no chance of catching the lead player. There is not enough uncertainty.
 
 The runaway leader is one of the main problems with Monopoly and why so many people hate it:
