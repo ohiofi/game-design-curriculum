@@ -300,7 +300,7 @@ Some examples of negative feedback loops:
 - In the Jackbox party game Trivia Murder Party, players that are winning get more multiple choice options and those that are losing get fewer options (more likely to randomly choose correctly).
 - The board game Starfarers of Catan has a negative feedback loop where every player with less than a certain number of victory points gets a free resource at the start of their turn. Early on, this affects all players and speeds up the early game. Later in the game, as some players get ahead and cross the victory point threshold, the players lagging behind continue to get bonus resources. This makes it easier for the trailing players to catch up. [Source](https://learn.canvas.net/courses/3/pages/level-4-dot-4-feedback-loops)
 - In the farming board game Agricola, players in the lead will add more people (children) to their family which allows them take more turns, but as you add more people you also have more people that you must feed every round.
-- The "underdog bonus" in Ultimate Chicken Horse is an extra bonus based on how far behind the leader you are.
+- Ultimate Chicken Horse has an extra bonus for a comeback. Extra points are earned for reaching the goal as an Underdog, meaning that you haven't reached the goal for the past 2 (or more) turns while others have.
 
 
 ### Dynamic Game Difficulty Balancing
