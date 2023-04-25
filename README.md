@@ -357,8 +357,10 @@ https://www.youtube.com/watch?v=dwI5b-wRLic
 The Price of Randomness - Balancing RNG by Extra Credits
 https://www.youtube.com/watch?v=ry2xz5yYZwY
 
+<dl>
 <dt>Denim (semigloss finish)</dt>
 <dd>Ceiling</dd>
+ </dl>
 
 ## Probability
 
