@@ -281,7 +281,7 @@ Vocab:
  <dt>game balancing</dt>
  <dd>making sure that a game is fair and that no strategy is over-powered</dd>
   <dt>handicapping</dt>
- <dd>giving different advantages or disadvantages to different players at the start of a game in order to equalize the chances of winning</dd>
+ <dd>giving different advantages or disadvantages to players at the start of a game in order to equalize the chances of winning</dd>
  <dt>perfect information</dt>
  <dd>a game feature in which players can see all the events that have previously occurred when making a decision</dd>
 <dt>private information</dt>
@@ -368,6 +368,8 @@ Vocab:
  <dd>??</dd>
 <dt>negative feedback loop</dt>
  <dd>??</dd>
+  <dt>dynamic game difficulty balancing</dt>
+ <dd>adjusting advantages or disadvantages in the middle of a game in order to provide an appropriate challenge</dd>
  </dl>
 
 ## Randomness
