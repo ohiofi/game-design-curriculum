@@ -19,6 +19,7 @@ Table of Contents:
  - [Randomness](#randomness)
    - [Procedural Generation](#procedural-generation)
    - [Input Randomness vs Output Randomness](#input-randomness-vs-output-randomness)
+ - [Probability](#probability)
    - [Independent Probability - Die Rolls / Coin Flips](#independent-probability---die-rolls--coin-flips)
    - [Dependent Probability - Card Draws](#dependent-probability---card-draws)
    - [Problems with Probability](#problems-with-probability)
@@ -345,8 +346,6 @@ Randomness provides variety. It is better to generate something random and allow
 
 **Input randomness** informs the player before they make a decision. Typical examples of input randomness would be map generation in Civilization or Rogue. Random face-up tile placement in board game like Catan. People often use the term “procedural generation” to refer to this kind of randomness in digital games.
 
-
-
 **Output randomness** decides an outcome. It is noise injected between the player’s decision and the outcome. Examples would be the dice roll combat in Risk or Memoir ’44, or the random number generation combat in X-Com or FTL. Can be frustrating to a player when their plans fail due to bad luck.
 
 3 Minute Game Design: Episode 6 - Output Randomness by Keith Burgun
@@ -357,6 +356,11 @@ https://www.youtube.com/watch?v=dwI5b-wRLic
 
 The Price of Randomness - Balancing RNG by Extra Credits
 https://www.youtube.com/watch?v=ry2xz5yYZwY
+
+<dt>Denim (semigloss finish)</dt>
+<dd>Ceiling</dd>
+
+## Probability
 
 ### Independent Probability - Die Rolls / Coin Flips
 Khan Academy - Intro to theoretical probability
