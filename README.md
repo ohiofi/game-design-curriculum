@@ -160,6 +160,26 @@ https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
 Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo. You would likely be so out-matched that it would not be a very fun game.
 
+Vocab:
+<dl>
+ <dt>interactive story</dt>
+ <dd>conventional narratives with some small interactive element added</dd>
+ <dt>toy</dt>
+ <dd>a plaything without defined goals</dd>
+ <dt>puzzle</dt>
+ <dd>a challenge without purposeful opponents</dd>
+ <dt>competition</dt>
+ <dd>a form of play without direct interaction between the players</dd>
+ <dt>game</dt>
+ <dd>a form of play in which players directly interact and are allowed to hurt each other's performance</dd>
+ <dt>game of chance</dt>
+ <dd>??</dd>
+ <dt>game of skill</dt>
+ <dd>??</dd>
+ <dt>solved game</dt>
+ <dd>??</dd>
+ </dl>
+
 ## Game Balance
 
 A **well balanced** game has multiple paths to victory (strategies, items, options, character choice) and no single path is over-powered.
@@ -256,6 +276,19 @@ https://www.youtube.com/watch?v=R9io0mK-5Ec
 In most games, players do not possess full information. Some players possess **private information** (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
 
 
+Vocab:
+<dl>
+ <dt>game balancing</dt>
+ <dd>making sure that a game is fair and that no strategy is over-powered</dd>
+  <dt>handicapping</dt>
+ <dd>giving different advantages or disadvantages to different players at the start of a game in order to equalize the chances of winning</dd>
+ <dt>perfect information</dt>
+ <dd>a game feature in which players can see all the events that have previously occurred when making a decision</dd>
+<dt>private information</dt>
+  <dd>a game feature in which players do not have the same common knowledge about the state of the game</dd>
+ </dl>
+
+
 ## Feedback Loops
 
 **Feedback loops** are systems where the output is fed back into the system as an input. In game design, this typically means that a player’s success or failure impacts the likelihood of future successes and failures.
@@ -327,6 +360,16 @@ Left 4 Dead has an AI Director system "...which dynamically adjusts the game’s
 
 "...in Max Payne the game dynamically adjusts the strength of enemies and can also provide different levels of aiming assistance for players" [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
 
+Vocab:
+<dl>
+ <dt>runaway leader</dt>
+ <dd>??</dd>
+ <dt>positive feedback loop</dt>
+ <dd>??</dd>
+<dt>negative feedback loop</dt>
+ <dd>??</dd>
+ </dl>
+
 ## Randomness
 
 ### Procedural Generation
@@ -361,13 +404,14 @@ https://www.youtube.com/watch?v=ry2xz5yYZwY
 
 A deterministic game is a strategy game with the following properties:
 - No random chance. There are no dice rolled, no cards drawn, no tiles pulled, etc.
-- No hidden information. There are no cards which are secret to some players, no
+- No hidden information. Perfect information. There are no cards which are secret to some players, no
 surprises that will be revealed as the game progresses, and no screens behind which
 players hide their secrets.
 - No ties. The game should end in a finite amount of time, with one winner.
 
 Examples include Tic-tac-toe, Chess, Checkers, Go, Othello, Blokus, Dots and Boxes, Nim.
 
+Vocab: 
 <dl>
 <dt>procedural generation</dt>
  <dd>automatically creating content based on pre-written instructions</dd>
