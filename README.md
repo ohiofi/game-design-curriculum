@@ -359,19 +359,20 @@ https://www.youtube.com/watch?v=ry2xz5yYZwY
 
 ### Deterministic Games
 
-A deterministic game is a strategy game with the following three properties:
+A deterministic game is a strategy game with the following properties:
 - No random chance. There are no dice rolled, no cards drawn, no tiles pulled, etc.
 - No hidden information. There are no cards which are secret to some players, no
 surprises that will be revealed as the game progresses, and no screens behind which
-players hide their unit instructions or battleship configurations.
-- No ties. The game should end in a finite amount of time, with one winner. (Although
-if you’d like to analyze a game which meets the other criteria but has ties, it’s easy to
-fix this by introducing a tiebreaker mechanic.)
+players hide their secrets.
+- No ties. The game should end in a finite amount of time, with one winner.
 
-Examples include Nim, Tic-tac-toe, Chess, Checkers, Go, Othello, Blokus, Dots and Boxes.
+Examples include Tic-tac-toe, Chess, Checkers, Go, Othello, Blokus, Dots and Boxes, Nim.
 
 <dl>
-
+<dt>procedural generation</dt>
+ <dd>automatically creating content based on pre-written instructions</dd>
+ <dt>roguelike</dt>
+ <dd>a genre of role-playing games that features level randomization and permanent death</dd>
 <dt>input randomness</dt>
 <dd>an unpredictable element brought into the game before players make a decision and allows the players to form a strategy</dd>
  <dt>output randomness</dt>
