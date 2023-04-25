@@ -327,7 +327,7 @@ Left 4 Dead has an AI Director system "...which dynamically adjusts the game’s
 
 "...in Max Payne the game dynamically adjusts the strength of enemies and can also provide different levels of aiming assistance for players" [Source](https://www.hindawi.com/journals/ijcgt/2012/625476/)
 
-## Probability
+## Randomness
 
 ### Procedural Generation
 
