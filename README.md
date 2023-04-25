@@ -16,7 +16,8 @@ Table of Contents:
    - [Runaway Leader](#runaway-leader)
    - [Negative Feedback Loops](#negative-feedback-loops)
    - [Dynamic Game Difficulty Balancing](#dynamic-game-difficulty-balancing)
- - [Probability](#probability)
+ - [Randomness](#randomness)
+   - [Procedural Generation](#procedural-generation)
    - [Input Randomness vs Output Randomness](#input-randomness-vs-output-randomness)
    - [Independent Probability - Die Rolls / Coin Flips](#independent-probability---die-rolls--coin-flips)
    - [Dependent Probability - Card Draws](#dependent-probability---card-draws)
@@ -327,12 +328,6 @@ Left 4 Dead has an AI Director system "...which dynamically adjusts the game’s
 
 ## Probability
 
-### Input Randomness vs Output Randomness
-
-Randomness provides variety. It is better to generate something random and allow the player to respond to it, rather than make a player's action random.
-
-**Input randomness** informs the player before they make a decision. Typical examples of input randomness would be map generation in Civilization or Rogue. Random face-up tile placement in board game like Catan. People often use the term “procedural generation” to refer to this kind of randomness in digital games.
-
 ### Procedural Generation
 
 How (and Why) Spelunky Makes its Own Levels by Game Maker's Toolkit
@@ -343,6 +338,14 @@ https://www.youtube.com/watch?v=TgbuWfGeG2o
 
 WHAT IS A ROGUELIKE?
 https://www.youtube.com/watch?v=koxMgiQhZf4
+
+### Input Randomness vs Output Randomness
+
+Randomness provides variety. It is better to generate something random and allow the player to respond to it, rather than make a player's action random.
+
+**Input randomness** informs the player before they make a decision. Typical examples of input randomness would be map generation in Civilization or Rogue. Random face-up tile placement in board game like Catan. People often use the term “procedural generation” to refer to this kind of randomness in digital games.
+
+
 
 **Output randomness** decides an outcome. It is noise injected between the player’s decision and the outcome. Examples would be the dice roll combat in Risk or Memoir ’44, or the random number generation combat in X-Com or FTL. Can be frustrating to a player when their plans fail due to bad luck.
 
