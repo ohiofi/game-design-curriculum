@@ -340,6 +340,8 @@ Some examples of negative feedback loops:
 
 ### Dynamic Game Difficulty Balancing
 
+Also known as Dynamic Difficulty Adjustment
+
 https://en.wikipedia.org/wiki/Dynamic_game_difficulty_balancing
 
 Rubber Band A.I.
