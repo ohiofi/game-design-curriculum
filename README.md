@@ -333,11 +333,16 @@ Randomness provides variety. It is better to generate something random and allow
 
 **Input randomness** informs the player before they make a decision. Typical examples of input randomness would be map generation in Civilization or Rogue. Random face-up tile placement in board game like Catan. People often use the term “procedural generation” to refer to this kind of randomness in digital games.
 
+### Procedural Generation
+
 How (and Why) Spelunky Makes its Own Levels by Game Maker's Toolkit
 https://www.youtube.com/watch?v=Uqk5Zf0tw3o
 
 Procedural Generation - How Games Create Infinite Worlds by Extra Credits
 https://www.youtube.com/watch?v=TgbuWfGeG2o
+
+WHAT IS A ROGUELIKE?
+https://www.youtube.com/watch?v=koxMgiQhZf4
 
 **Output randomness** decides an outcome. It is noise injected between the player’s decision and the outcome. Examples would be the dice roll combat in Risk or Memoir ’44, or the random number generation combat in X-Com or FTL. Can be frustrating to a player when their plans fail due to bad luck.
 
