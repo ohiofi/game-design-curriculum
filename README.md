@@ -438,17 +438,20 @@ https://www.youtube.com/watch?v=uzkc-qNVoOk
 Khan Academy - Theoretical and experimental probability: Coin flips and die rolls
 https://www.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/a/theoretical-and-experimental-probability-coin-flips-and-die-rolls
 
-1 coin = 2 equally likely possibilities
-2 coins = 4 equally likely possibilities
-3 coins = 8 equally likely possibilities
+1 coin = 2 equally likely possibilities, 2 coins = 4 possible outcomes, 3 coins = 8 possible outcomes
 
 - With one die (aka 1d6), what is the prob. of rolling 1?
+- With one die (aka 1d6), what is the prob. of rolling an even number?
 - With two coins (2d2), what is the prob. of flipping heads & heads?
+- With three coins (3d2), what is the prob. of flipping heads, heads, & heads?
 - With two dice (2d6), what is the prob. of rolling doubles?
+- With two dice, what is the prob. of rolling a total of 8?
+- With two dice, what is the prob. of rolling a total of 10?
 - With two dice, what is the prob. of rolling a total of 12?
-- With two dice, what is the prob. of rolling a total of 6?
-- With two dice, what is the prob. of rolling a total of 1?
 - With two dice, what is the prob. of rolling a total of 7?
+- With two dice, what is the prob. of rolling a total of 9?
+- With two dice, what is the prob. of rolling a total of 11?
+- With two dice, what is the prob. of rolling a total of 13?
 - With six coins (6d2), what is the prob. of flipping 1 heads & 5 tails?
 
 ### Dependent Probability - Card Draws
