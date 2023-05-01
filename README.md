@@ -445,10 +445,10 @@ https://www.khanacademy.org/math/ap-statistics/probability-ap/randomness-probabi
 - With one die (aka 1d6), what is the prob. of rolling 1?
 - With two coins (2d2), what is the prob. of flipping heads & heads?
 - With two dice (2d6), what is the prob. of rolling doubles?
-- With two dice, what is the prob. of rolling 12?
-- With two dice, what is the prob. of rolling 6?
-- With two dice, what is the prob. of rolling 1?
-- With two dice, what is the prob. of rolling 7?
+- With two dice, what is the prob. of rolling a total of 12?
+- With two dice, what is the prob. of rolling a total of 6?
+- With two dice, what is the prob. of rolling a total of 1?
+- With two dice, what is the prob. of rolling a total of 7?
 - With six coins (6d2), what is the prob. of flipping 1 heads & 5 tails?
 
 ### Dependent Probability - Card Draws
