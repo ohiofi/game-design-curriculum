@@ -173,11 +173,11 @@ Vocab:
  <dt>game</dt>
  <dd>a form of play in which players directly interact and are allowed to hurt each other's performance</dd>
  <dt>game of chance</dt>
- <dd>??</dd>
+ <dd>a game in which the outcome is mostly determined by a random device</dd>
  <dt>game of skill</dt>
- <dd>??</dd>
+ <dd>a game in which the outcome is mostly determined by mental or physical ability</dd>
  <dt>solved game</dt>
- <dd>??</dd>
+ <dd>a game in which the outcome can be correctly predicted if both players play logically</dd>
  </dl>
 
 ## Game Balance
@@ -365,11 +365,11 @@ Left 4 Dead has an AI Director system "...which dynamically adjusts the game’s
 Vocab:
 <dl>
  <dt>runaway leader</dt>
- <dd>??</dd>
+ <dd>a situation in which one player has an advantage and the other players feel they have no chance of winning and that playing out the rest of the game is pointless</dd>
  <dt>positive feedback loop</dt>
- <dd>??</dd>
+ <dd>a game mechanic in which the game rewards players for performing well with advantages that increase their performance</dd>
 <dt>negative feedback loop</dt>
- <dd>??</dd>
+ <dd>a game mechanic in which the game tries to avoid a runaway leader by either giving the lead player a disadvantage or giving others advantages</dd>
   <dt>dynamic game difficulty balancing</dt>
  <dd>adjusting advantages or disadvantages in the middle of a game in order to provide an appropriate challenge</dd>
  </dl>
