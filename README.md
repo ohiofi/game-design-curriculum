@@ -279,7 +279,7 @@ In most games, players do not possess full information. Some players possess **p
 Vocab:
 <dl>
  <dt>game balancing</dt>
- <dd>making sure that a game is fair and that no strategy is over-powered</dd>
+ <dd>making sure that a game is fair and that no strategy is overpowered</dd>
   <dt>handicapping</dt>
  <dd>giving different advantages or disadvantages to players at the start of a game in order to equalize the chances of winning</dd>
  <dt>perfect information</dt>
