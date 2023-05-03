@@ -163,7 +163,7 @@ Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or F
 Vocab:
 <dl>
  <dt>interactive story</dt>
- <dd>conventional narratives with some small interactive element added</dd>
+ <dd>a narrative with some small interactive element added</dd>
  <dt>toy</dt>
  <dd>a plaything without defined goals</dd>
  <dt>puzzle</dt>
