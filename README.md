@@ -160,6 +160,9 @@ https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
 Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo. You would likely be so out-matched that it would not be a very fun game.
 
+[Somali sprinter's "embarrasing" 22 second 100m race draws government apology](https://www.youtube.com/watch?v=tLgyVfDlP5o)
+[Wrestling weight classes](https://en.wikipedia.org/wiki/Wrestling_weight_classes)
+
 Vocab:
 <dl>
  <dt>interactive story</dt>
