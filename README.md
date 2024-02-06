@@ -89,6 +89,14 @@ Toys vs games vs puzzles vs simulations
 
 Chris Crawford is a veteran game designer and founder of the Game Developers Conference (GDC). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
 
+```
+interactive story: a narrative with some small interactive element added
+toy: a plaything without defined goals
+puzzle: a challenge without purposeful opponents
+competition: a form of play without direct interaction between the players
+game: a form of play in which players directly interact and are allowed to hurt each other's performance
+```
+
 Which category do the following describe?
 - challenges without opponents that have clearly defined goals
 - interactive playthings, simulations, and sandbox games without defined goals
@@ -138,6 +146,11 @@ https://youtu.be/2owa2s8GdlM?t=958
 
 **Discuss**: What are some games of skill?
 
+```
+game of chance: a game in which the outcome is mostly determined by a random device
+game of skill: a game in which the outcome is mostly determined by mental or physical ability
+```
+
 Not enough luck could lead to:
 - Analysis Paralysis
 - Solved Games
@@ -156,6 +169,10 @@ https://en.wikipedia.org/wiki/Category:Solved_games
 **TRY IT YOURSELF >>>** Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
+```
+solved game: a game in which the outcome can be correctly predicted if both players play logically
+```
+
 ### Being out of your league / swimming out of your depth
 
 Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo. You would likely be so out-matched that it would not be a very fun game.
@@ -164,7 +181,7 @@ Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or F
 
 [Wrestling weight classes](https://en.wikipedia.org/wiki/Wrestling_weight_classes)
 
-Vocab:
+Vocab Review:
 <dl>
  <dt>interactive story</dt>
  <dd>a narrative with some small interactive element added</dd>
@@ -192,6 +209,10 @@ If one path is always an obvious and better choice, most everyone will use the s
 
 How Games Get Balanced by Game Maker's Toolkit
 https://www.youtube.com/watch?v=WXQzdXPTb2A
+
+```
+game balancing: making sure that a game is fair and that no strategy is overpowered
+```
 
 ### Fairness
 
@@ -234,6 +255,9 @@ Mario Kart addresses skill gaps this with difficulty level ([50cc/100cc/150cc](h
 Difficulty Level
 https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
+```
+handicapping: giving different advantages or disadvantages to players at the start of a game in order to equalize the chances of winning
+```
 
 
 ### Perfect Information
@@ -253,6 +277,10 @@ https://www.youtube.com/watch?v=_2LKrwiGFFs
 The paradox of choice is the idea that having more options to choose from is not always better. After making a choice, humans are less happy with their decision if there were too many options.
 
 Overchoice or choice overload choosing between a large variety of options can be detrimental to decision making [https://en.wikipedia.org/wiki/Overchoice](https://en.wikipedia.org/wiki/Overchoice)
+
+```
+perfect information: a game feature in which players can see all the events that have previously occurred when making a decision
+```
 
 ### Hidden Information
 
@@ -281,8 +309,11 @@ https://www.youtube.com/watch?v=R9io0mK-5Ec
 
 In most games, players do not possess full information. Some players possess **private information** (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
 
+```
+private information: a game feature in which players do not have the same common knowledge about the state of the game
+```
 
-Vocab:
+Vocab Review:
 <dl>
  <dt>game balancing</dt>
  <dd>making sure that a game is fair and that no strategy is overpowered</dd>
@@ -313,6 +344,9 @@ There are two types of feedback loops, positive feedback loops and negative feed
 
 A good example is the kill streak system in the Call of Duty games, especially the earlier titles like Modern Warfare. In those games, getting a handful of kills in a single life grants you special “kill streak” bonuses, which might mean putting enemy locations on your radar, or allowing you to call in an airstrike or an attack helicopter. Which ultimately means that those who are already doing well by racking up kills, are rewarded with the tools to do even better. The rich get richer and the poor get poorer. [Source](https://www.youtube.com/watch?v=H4kbJObhcHw)
 
+```
+positive feedback loop: a game mechanic in which the game rewards players for performing well with advantages that increase their performance
+```
 
 ### Runaway Leader
 
@@ -326,6 +360,10 @@ The runaway leader is one of the main problems with Monopoly and why so many peo
 - https://www.stuff.co.nz/entertainment/games/114645374/why-monopoly-is-the-worst-game-in-the-world
 - https://www.bbc.com/future/article/20200219-why-monopoly-is-such-a-bad-game
 - https://nationalpost.com/life/if-we-all-know-how-bad-monopoly-is-why-do-we-continue-to-play-and-keep-it-on-the-pedestal-of-board-games
+
+```
+runaway leader: a situation in which one player has an advantage and the other players feel they have no chance of winning and that playing out the rest of the game is pointless
+```
 
 ### Negative Feedback Loops
 
@@ -343,6 +381,9 @@ Some examples of negative feedback loops:
 - In the farming board game Agricola, players in the lead will add more people (children) to their family which allows them take more turns, but as you add more people you also have more people that you must feed every round.
 - Ultimate Chicken Horse has an extra bonus for a comeback. Extra points are earned for reaching the goal as an Underdog, meaning that you haven't reached the goal for the past 2 (or more) turns while others have.
 
+```
+negative feedback loop: a game mechanic in which the game tries to avoid a runaway leader by either giving the lead player a disadvantage or giving others advantages
+```
 
 ### Dynamic Game Difficulty Balancing
 
