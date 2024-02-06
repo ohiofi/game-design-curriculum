@@ -153,7 +153,7 @@ https://en.wikipedia.org/wiki/Category:Solved_games
 - Order and Chaos
 - Nim
 
-**TRY IT >>>** Nim
+**TRY IT YOURSELF >>>** Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
 ### Being out of your league / swimming out of your depth
@@ -161,6 +161,7 @@ https://www.archimedes-lab.org/game_nim/play_nim_game.html
 Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or Floyd Mayweather. Imagine serving as goalkeeper against Lionel Messi or Cristiano Ronaldo. You would likely be so out-matched that it would not be a very fun game.
 
 [Somali sprinter's "embarrasing" 22 second 100m race draws government apology](https://www.youtube.com/watch?v=tLgyVfDlP5o)
+
 [Wrestling weight classes](https://en.wikipedia.org/wiki/Wrestling_weight_classes)
 
 Vocab:
@@ -250,6 +251,8 @@ Choice Paralysis - Too Much of a Good Thing by Extra Credits
 https://www.youtube.com/watch?v=_2LKrwiGFFs
 
 The paradox of choice is the idea that having more options to choose from is not always better. After making a choice, humans are less happy with their decision if there were too many options.
+
+Overchoice or choice overload choosing between a large variety of options can be detrimental to decision making [https://en.wikipedia.org/wiki/Overchoice](https://en.wikipedia.org/wiki/Overchoice)
 
 ### Hidden Information
 
