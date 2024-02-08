@@ -89,13 +89,21 @@ Toys vs games vs puzzles vs simulations
 
 Chris Crawford is a veteran game designer and founder of the Game Developers Conference (GDC). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
 
-<p style="background:gray">
-interactive story: a narrative with some small interactive element added
-toy: a plaything without defined goals
-puzzle: a challenge without purposeful opponents
-competition: a form of play without direct interaction between the players
-game: a form of play in which players directly interact and are allowed to hurt each other's performance
-</p>
+
+- interactive story: a narrative with some small interactive element added
+- toy: a plaything without defined goals
+- puzzle: a challenge without purposeful opponents
+- competition: a form of play without direct interaction between the players
+- game: a form of play in which players directly interact and are allowed to hurt each other's performance
+
+
+
+
+3 Minute Game Design: Episode 2 - The Forms
+https://www.youtube.com/watch?v=MgyVwFRrzcU
+
+"X" isn’t a game!
+[http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/) - review Raph Koster's venn diagram of games and digital interactive art
 
 Which category do the following describe?
 - challenges without opponents that have clearly defined goals
@@ -103,12 +111,6 @@ Which category do the following describe?
 - challenges with opponents without direct interaction between the competitors
 - narratives with limited interaction in which the primary entertainment value is the storyline
 - challenges with opponents in which the players (human or A.I.) directly interact in such a way as to foil each other’s goals
-
-3 Minute Game Design: Episode 2 - The Forms
-https://www.youtube.com/watch?v=MgyVwFRrzcU
-
-"X" isn’t a game!
-[http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/) - review Raph Koster's venn diagram of games and digital interactive art
 
 Cow Clicker by Ian Bogost
 [http://bogost.com/games/cow_clicker/](http://bogost.com/games/cow_clicker/) - an experiment and deconstructive satire of social games by a Georgia Tech professor
