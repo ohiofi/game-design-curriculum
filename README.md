@@ -89,13 +89,13 @@ Toys vs games vs puzzles vs simulations
 
 Chris Crawford is a veteran game designer and founder of the Game Developers Conference (GDC). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
 
-```
+<p style="background:gray">
 interactive story: a narrative with some small interactive element added
 toy: a plaything without defined goals
 puzzle: a challenge without purposeful opponents
 competition: a form of play without direct interaction between the players
 game: a form of play in which players directly interact and are allowed to hurt each other's performance
-```
+</p>
 
 Which category do the following describe?
 - challenges without opponents that have clearly defined goals
