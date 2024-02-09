@@ -6,6 +6,7 @@ Table of Contents:
  - [Games of Chance / Games of Skill](#games-of-chance-vs-games-of-skill)
    - [Solved Games](#solved-games)
    - [Being out of your league / swimming out of your depth](#being-out-of-your-league--swimming-out-of-your-depth)
+     - [Vocab Review 1](#vocab-review-1)
  - [Game Balance](#game-balance)
    - [Fairness](#fairness)
    - [Handicapping](#handicapping)
@@ -90,11 +91,18 @@ Toys vs games vs puzzles vs simulations
 Chris Crawford is a veteran game designer and founder of the Game Developers Conference (GDC). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
 
 
-- interactive story: a narrative with some small interactive element added
-- toy: a plaything without defined goals
-- puzzle: a challenge without purposeful opponents
-- competition: a form of play without direct interaction between the players
-- game: a form of play in which players directly interact and are allowed to hurt each other's performance
+<dl>
+ <dt>interactive story</dt>
+ <dd>a narrative with some small interactive element added</dd>
+ <dt>toy</dt>
+ <dd>a plaything without defined goals</dd>
+ <dt>puzzle</dt>
+ <dd>a challenge without purposeful opponents</dd>
+ <dt>competition</dt>
+ <dd>a form of play without direct interaction between the players</dd>
+ <dt>game</dt>
+ <dd>a form of play in which players directly interact and are allowed to hurt each other's performance</dd>
+ </dl>
 
 
 
@@ -148,10 +156,16 @@ https://youtu.be/2owa2s8GdlM?t=958
 
 **Discuss**: What are some games of skill?
 
-```
-game of chance: a game in which the outcome is mostly determined by a random device
-game of skill: a game in which the outcome is mostly determined by mental or physical ability
-```
+
+<dl>
+
+ <dt>game of chance</dt>
+ <dd>a game in which the outcome is mostly determined by a random device</dd>
+ <dt>game of skill</dt>
+ <dd>a game in which the outcome is mostly determined by mental or physical ability</dd>
+
+ </dl>
+
 
 Not enough luck could lead to:
 - Analysis Paralysis
@@ -171,9 +185,11 @@ https://en.wikipedia.org/wiki/Category:Solved_games
 **TRY IT YOURSELF >>>** Nim
 https://www.archimedes-lab.org/game_nim/play_nim_game.html
 
-```
-solved game: a game in which the outcome can be correctly predicted if both players play logically
-```
+<dl>
+
+ <dt>solved game</dt>
+ <dd>a game in which the outcome can be correctly predicted if both players play logically</dd>
+ </dl>
 
 ### Being out of your league / swimming out of your depth
 
@@ -183,7 +199,7 @@ Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or F
 
 [Wrestling weight classes](https://en.wikipedia.org/wiki/Wrestling_weight_classes)
 
-Vocab Review:
+### Vocab Review 1
 <dl>
  <dt>interactive story</dt>
  <dd>a narrative with some small interactive element added</dd>
@@ -212,9 +228,11 @@ If one path is always an obvious and better choice, most everyone will use the s
 How Games Get Balanced by Game Maker's Toolkit
 https://www.youtube.com/watch?v=WXQzdXPTb2A
 
-```
-game balancing: making sure that a game is fair and that no strategy is overpowered
-```
+<dl>
+ <dt>game balancing</dt>
+ <dd>making sure that a game is fair and that no strategy is overpowered</dd>
+
+ </dl>
 
 ### Fairness
 
@@ -257,9 +275,12 @@ Mario Kart addresses skill gaps this with difficulty level ([50cc/100cc/150cc](h
 Difficulty Level
 https://en.wikipedia.org/wiki/Game_balance#Difficulty_level
 
-```
-handicapping: giving different advantages or disadvantages to players at the start of a game in order to equalize the chances of winning
-```
+<dl>
+
+  <dt>handicapping</dt>
+ <dd>giving different advantages or disadvantages to players at the start of a game in order to equalize the chances of winning</dd>
+
+ </dl>
 
 
 ### Perfect Information
@@ -280,9 +301,12 @@ The paradox of choice is the idea that having more options to choose from is not
 
 Overchoice or choice overload choosing between a large variety of options can be detrimental to decision making [https://en.wikipedia.org/wiki/Overchoice](https://en.wikipedia.org/wiki/Overchoice)
 
-```
-perfect information: a game feature in which players can see all the events that have previously occurred when making a decision
-```
+<dl>
+ <dt>perfect information</dt>
+ <dd>a game feature in which players can see all the events that have previously occurred when making a decision</dd>
+<dt>private information</dt>
+  <dd>a game feature in which players do not have the same common knowledge about the state of the game</dd>
+ </dl>
 
 ### Hidden Information
 
@@ -311,11 +335,11 @@ https://www.youtube.com/watch?v=R9io0mK-5Ec
 
 In most games, players do not possess full information. Some players possess **private information** (for example, hidden cards in a player's hand) or the game hides some information from all players (the murderer, weapon, and location in Clue).
 
-```
-private information: a game feature in which players do not have the same common knowledge about the state of the game
-```
 
-Vocab Review:
+private information is a game feature in which players do not have the same common knowledge about the state of the game
+
+
+### Vocab Review 2
 <dl>
  <dt>game balancing</dt>
  <dd>making sure that a game is fair and that no strategy is overpowered</dd>
