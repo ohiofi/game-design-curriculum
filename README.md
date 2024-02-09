@@ -371,9 +371,12 @@ There are two types of feedback loops, positive feedback loops and negative feed
 
 A good example is the kill streak system in the Call of Duty games, especially the earlier titles like Modern Warfare. In those games, getting a handful of kills in a single life grants you special “kill streak” bonuses, which might mean putting enemy locations on your radar, or allowing you to call in an airstrike or an attack helicopter. Which ultimately means that those who are already doing well by racking up kills, are rewarded with the tools to do even better. The rich get richer and the poor get poorer. [Source](https://www.youtube.com/watch?v=H4kbJObhcHw)
 
-```
-positive feedback loop: a game mechanic in which the game rewards players for performing well with advantages that increase their performance
-```
+
+<dl>
+ <dt>positive feedback loop</dt>
+ <dd> a game mechanic in which the game rewards players for performing well with advantages that increase their performance</dd>
+
+ </dl>
 
 ### Runaway Leader
 
@@ -388,9 +391,15 @@ The runaway leader is one of the main problems with Monopoly and why so many peo
 - https://www.bbc.com/future/article/20200219-why-monopoly-is-such-a-bad-game
 - https://nationalpost.com/life/if-we-all-know-how-bad-monopoly-is-why-do-we-continue-to-play-and-keep-it-on-the-pedestal-of-board-games
 
-```
-runaway leader: a situation in which one player has an advantage and the other players feel they have no chance of winning and that playing out the rest of the game is pointless
-```
+
+<dl>
+ <dt>
+ runaway leader
+ </dt>
+ <dd>
+  a situation in which one player has an advantage and the other players feel they have no chance of winning and that playing out the rest of the game is pointless
+ </dd>
+</dl>
 
 ### Negative Feedback Loops
 
@@ -408,9 +417,15 @@ Some examples of negative feedback loops:
 - In the farming board game Agricola, players in the lead will add more people (children) to their family which allows them take more turns, but as you add more people you also have more people that you must feed every round.
 - Ultimate Chicken Horse has an extra bonus for a comeback. Extra points are earned for reaching the goal as an Underdog, meaning that you haven't reached the goal for the past 2 (or more) turns while others have.
 
-```
-negative feedback loop: a game mechanic in which the game tries to avoid a runaway leader by either giving the lead player a disadvantage or giving others advantages
-```
+
+<dl>
+ <dt>
+  negative feedback loop
+ </dt>
+ <dd>
+  a game mechanic in which the game tries to avoid a runaway leader by either giving the lead player a disadvantage or giving others advantages
+ </dd>
+</dl>
 
 ### Dynamic Game Difficulty Balancing
 
@@ -418,12 +433,12 @@ Also known as Dynamic Difficulty Adjustment
 
 https://en.wikipedia.org/wiki/Dynamic_game_difficulty_balancing
 
-Rubber Band A.I.
+Game Difficulty Balancing A.I.
 https://www.giantbomb.com/rubber-band-ai/3015-35/
 
 How does Mario Kart incorporate Dynamic Game Difficulty Balancing? What items does a high ranked player receive compared to a low ranked player?
 
-Mario Kart - Rubber Band AI
+Mario Kart AI
 https://www.youtube.com/watch?v=Zoh5X30Qz-E&feature=youtu.be&t=29
 
 Is Mario Kart Unfair?
@@ -461,6 +476,13 @@ https://www.youtube.com/watch?v=TgbuWfGeG2o
 WHAT IS A ROGUELIKE?
 https://www.youtube.com/watch?v=koxMgiQhZf4
 
+<dl>
+<dt>procedural generation</dt>
+ <dd>automatically creating content based on pre-written instructions</dd>
+ <dt>roguelike</dt>
+ <dd>a genre of role-playing games that features level randomization and permanent death</dd>
+ </dl>
+
 ### Input Randomness vs Output Randomness
 
 Randomness provides variety. It is better to generate something random and allow the player to respond to it, rather than make a player's action random.
@@ -477,6 +499,15 @@ https://www.youtube.com/watch?v=dwI5b-wRLic
 
 The Price of Randomness - Balancing RNG by Extra Credits
 https://www.youtube.com/watch?v=ry2xz5yYZwY
+
+<dl>
+<dt>input randomness</dt>
+<dd>an unpredictable element brought into the game before players make a decision and allows the players to form a strategy</dd>
+ <dt>output randomness</dt>
+<dd>an unpredictable element brought into the game after players make a decision and gives the players no control over the outcome</dd>
+  <dt>deterministic</dt>
+ <dd>a predictable system that has no randomness or variation in which one input will always produce the same results</dd>
+ </dl>
 
 ### Deterministic Games
 
