@@ -13,6 +13,7 @@ Table of Contents:
    - [Perfect Information](#perfect-information)
    - [Hidden Information](#hidden-information)
    - [Private Information](#private-information)
+     - [Vocab Review 2](#vocab-review-2)
  - [Feedback Loops](#feedback-loops)
    - [Runaway Leader](#runaway-leader)
    - [Negative Feedback Loops](#negative-feedback-loops)
@@ -199,7 +200,7 @@ Imagine playing chess against a Grand Master. Imagine boxing Manny Pacquiao or F
 
 [Wrestling weight classes](https://en.wikipedia.org/wiki/Wrestling_weight_classes)
 
-### Vocab Review 1
+#### Vocab Review 1
 <dl>
  <dt>interactive story</dt>
  <dd>a narrative with some small interactive element added</dd>
@@ -339,7 +340,7 @@ In most games, players do not possess full information. Some players possess **p
 private information is a game feature in which players do not have the same common knowledge about the state of the game
 
 
-### Vocab Review 2
+#### Vocab Review 2
 <dl>
  <dt>game balancing</dt>
  <dd>making sure that a game is fair and that no strategy is overpowered</dd>
