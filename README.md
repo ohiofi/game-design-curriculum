@@ -132,8 +132,10 @@ Why Do We Play Games? by Vsauce
 BF Skinner & Positive Reinforcement
 [https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430](https://www.youtube.com/watch?v=qG2SwE_6uVM&feature=youtu.be&t=430)
 
-
-
+<dl>
+ <dt>positive reinforcement</dt>
+  <dd>the act of providing feedback (often a reward) for a behavior in order to change the likelihood that it to happens again in the future</dd>
+</dl>
 
 
 
