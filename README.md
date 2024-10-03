@@ -91,7 +91,7 @@ Toys vs games vs puzzles vs simulations
 
 Chris Crawford is a veteran game designer and founder of the Game Developers Conference (GDC). He's written several book on game design and his 1984 book [The Art of Computer Game Design](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) is  available online. Crawford's hierarchy/taxonomy of games divides interactive entertainment ("intertainments") into 5 categories: Interactive Stories, Toys, Puzzles, Competitions, and Games.
 
-
+### What is a game? vocab
 <dl>
  <dt>interactive story</dt>
  <dd>a narrative with some small interactive element added</dd>
@@ -105,8 +105,15 @@ Chris Crawford is a veteran game designer and founder of the Game Developers Con
  <dd>a form of play in which players directly interact and are allowed to hurt each other's performance</dd>
  </dl>
 
+### What makes a GOOD game?
 
+Because there are different styles of games, it's easier to ask...
+- What makes a good survival horror game?
+- What makes a good platformer game?
+- What makes a good adventure game?
+- What makes a good puzzle game?
 
+Generally speaking all good games have: player agency (aka player choices), replayability, and a challenge.
 
 3 Minute Game Design: Episode 2 - The Forms
 https://www.youtube.com/watch?v=MgyVwFRrzcU
@@ -114,7 +121,7 @@ https://www.youtube.com/watch?v=MgyVwFRrzcU
 "X" isn’t a game!
 [http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/) - review Raph Koster's venn diagram of games and digital interactive art
 
-Which category do the following describe?
+### Which category do the following describe?
 - challenges without opponents that have clearly defined goals
 - interactive playthings, simulations, and sandbox games without defined goals
 - challenges with opponents without direct interaction between the competitors
