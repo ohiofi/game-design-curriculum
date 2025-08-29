@@ -105,6 +105,13 @@ Chris Crawford is a veteran game designer and founder of the Game Developers Con
  <dd>a form of play in which players directly interact and are allowed to hurt each other's performance</dd>
  </dl>
 
+### Which category do the following describe?
+- challenges without opponents that have clearly defined goals
+- interactive playthings, simulations, and sandbox games without defined goals
+- challenges with opponents without direct interaction between the competitors
+- narratives with limited interaction in which the primary entertainment value is the storyline
+- challenges with opponents in which the players (human or A.I.) directly interact in such a way as to foil each other’s goals
+
 ### What makes a GOOD game?
 
 Because there are different styles of games, it's easier to ask...
@@ -113,20 +120,20 @@ Because there are different styles of games, it's easier to ask...
 - What makes a good adventure game?
 - What makes a good puzzle game?
 
-Generally speaking all good games have: player agency (aka player choices), replayability, and a challenge.
-
 3 Minute Game Design: Episode 2 - The Forms
 https://www.youtube.com/watch?v=MgyVwFRrzcU
 
-"X" isn’t a game!
+Generally speaking all good games have: 
+1. player agency (aka player choices)
+2. replayability
+3. a challenge (a mix of skill and chance)
+
+
+
+Gatekeeping: "X" isn’t a game!
 [http://www.raphkoster.com/2012/03/13/x-isnt-a-game/](http://www.raphkoster.com/2012/03/13/x-isnt-a-game/) - review Raph Koster's venn diagram of games and digital interactive art
 
-### Which category do the following describe?
-- challenges without opponents that have clearly defined goals
-- interactive playthings, simulations, and sandbox games without defined goals
-- challenges with opponents without direct interaction between the competitors
-- narratives with limited interaction in which the primary entertainment value is the storyline
-- challenges with opponents in which the players (human or A.I.) directly interact in such a way as to foil each other’s goals
+
 
 Cow Clicker by Ian Bogost
 [http://bogost.com/games/cow_clicker/](http://bogost.com/games/cow_clicker/) - an experiment and deconstructive satire of social games by a Georgia Tech professor
